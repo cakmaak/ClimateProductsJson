@@ -12,24 +12,36 @@
     "type": "Split Klima",
     "recommended_room_m2": 16,
     "refrigerant": "R32",
-    "dehumidify": true,
-    "remote_control": true,
     "inverter": true,
-    "heating_function": true,
     "energy_rating": "A++",
     "color": "Beyaz",
-    "warranty": "2 Yıl BSH Türkiye Garantili",
-    "contents": ["Kullanma Kılavuzu", "Uzaktan Kumanda"],
     "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg",
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765274986/id1dislim_quabfh.webp"
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
     ]
   },
-
   {
     "id": 2,
+    "brand": "Bosch",
+    "model": "Climate CL3000X W 42 E A++",
+    "name": "Bosch Climate CL3000X W 42 E A++ 14000 BTU Duvar Tipi Klima",
+    "btus_cooling": 14000,
+    "btus_heating": 15000,
+    "power_cooling_watt": 1350,
+    "noise_indoor_db": 42,
+    "type": "Split Klima",
+    "recommended_room_m2": 20,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+  {
+    "id": 3,
     "brand": "Samsung",
-    "model": "WindFree AR12TXCAAWKNEU",
+    "model": "WindFree AR12",
     "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
     "btus_cooling": 12000,
     "btus_heating": 13000,
@@ -40,47 +52,314 @@
     "refrigerant": "R32",
     "inverter": true,
     "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+   {
+    "id": 4,
+    "brand": "Samsung",
+    "model": "WindFree AR12",
+    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
+    "btus_cooling": 12000,
+    "btus_heating": 13000,
+    "power_cooling_watt": 1200,
+    "noise_indoor_db": 38,
+    "type": "Split Klima",
+    "recommended_room_m2": 15,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+   {
+    "id": 5,
+    "brand": "Samsung",
+    "model": "WindFree AR12",
+    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
+    "btus_cooling": 12000,
+    "btus_heating": 13000,
+    "power_cooling_watt": 1200,
+    "noise_indoor_db": 38,
+    "type": "Split Klima",
+    "recommended_room_m2": 15,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+   {
+    "id": 6,
+    "brand": "Samsung",
+    "model": "WindFree AR12",
+    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
+    "btus_cooling": 12000,
+    "btus_heating": 13000,
+    "power_cooling_watt": 1200,
+    "noise_indoor_db": 38,
+    "type": "Split Klima",
+    "recommended_room_m2": 15,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+   {
+    "id": 7,
+    "brand": "Samsung",
+    "model": "WindFree AR12",
+    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
+    "btus_cooling": 12000,
+    "btus_heating": 13000,
+    "power_cooling_watt": 1200,
+    "noise_indoor_db": 38,
+    "type": "Split Klima",
+    "recommended_room_m2": 15,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+   {
+    "id": 8,
+    "brand": "Samsung",
+    "model": "WindFree AR12",
+    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
+    "btus_cooling": 12000,
+    "btus_heating": 13000,
+    "power_cooling_watt": 1200,
+    "noise_indoor_db": 38,
+    "type": "Split Klima",
+    "recommended_room_m2": 15,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+   {
+    "id": 9,
+    "brand": "Samsung",
+    "model": "WindFree AR12",
+    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
+    "btus_cooling": 12000,
+    "btus_heating": 13000,
+    "power_cooling_watt": 1200,
+    "noise_indoor_db": 38,
+    "type": "Split Klima",
+    "recommended_room_m2": 15,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+   {
+    "id": 10,
+    "brand": "Samsung",
+    "model": "WindFree AR12",
+    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
+    "btus_cooling": 12000,
+    "btus_heating": 13000,
+    "power_cooling_watt": 1200,
+    "noise_indoor_db": 38,
+    "type": "Split Klima",
+    "recommended_room_m2": 15,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
+    ]
+  },
+   {
+    "id": 11,
+    "brand": "Samsung",
+    "model": "WindFree AR12",
+    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
+    "btus_cooling": 12000,
+    "btus_heating": 13000,
+    "power_cooling_watt": 1200,
+    "noise_indoor_db": 38,
+    "type": "Split Klima",
+    "recommended_room_m2": 15,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
     "images": [
       "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
     ]
   },
 
+  /* ================= MOBİL KLİMALAR ================= */
+
   {
-    "id": 203,
+    "id": 101,
+    "brand": "Sakura",
+    "model": "SAC 9 MB",
+    "name": "Sakura SAC 9 MB 9000 BTU Mobil Klima",
+    "btus_cooling": 9000,
+    "power_cooling_watt": 1100,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 10,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 102,
+    "brand": "Sakura",
+    "model": "SAC 10 MB",
+    "name": "Sakura SAC 10 MB 10000 BTU Mobil Klima",
+    "btus_cooling": 10000,
+    "power_cooling_watt": 1200,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 12,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 103,
+    "brand": "Sakura",
+    "model": "SAC 11 MB",
+    "name": "Sakura SAC 11 MB 11000 BTU Mobil Klima",
+    "btus_cooling": 11000,
+    "power_cooling_watt": 1270,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 14,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 104,
     "brand": "Sakura",
     "model": "SAC 12 MB",
-    "name": "Sakura SAC 12 MB 12000 BTU Portatif Klima",
+    "name": "Sakura SAC 12 MB 12000 BTU Mobil Klima",
     "btus_cooling": 12000,
-    "btus_heating": 11200,
     "power_cooling_watt": 1340,
-    "power_heating_watt": 1100,
-    "eer": 2.6,
-    "cop": 3,
     "type": "Mobil Klima",
-    "climate_technology": "On/Off",
     "recommended_room_m2": 15,
-    "dehumidify": true,
-    "remote_control": true,
-    "sleep_mode": true,
-    "timer": true,
-    "adjustable_fan": true,
-    "silent_mode": true,
-    "display": "LED",
-    "filter_type": "Hava Filtresi",
-    "unit_dimensions_mm": {
-      "width": 688,
-      "height": 419,
-      "depth": 358
-    },
-    "unit_weight_kg": 28.2,
+    "climate_technology": "On/Off",
     "color": "Beyaz",
-    "warranty": "2 Yıl Garantili",
-    "contents": ["Kullanma Kılavuzu", "Hava Tahliye Borusu"],
     "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp",
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob3_wmzt47.webp",
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob5_lx4aum.webp",
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob6_dtynwi.webp"
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 105,
+    "brand": "Sakura",
+    "model": "SAC 13 MB",
+    "name": "Sakura SAC 13 MB 13000 BTU Mobil Klima",
+    "btus_cooling": 13000,
+    "power_cooling_watt": 1420,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 17,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 106,
+    "brand": "Sakura",
+    "model": "SAC 14 MB",
+    "name": "Sakura SAC 14 MB 14000 BTU Mobil Klima",
+    "btus_cooling": 14000,
+    "power_cooling_watt": 1500,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 18,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 107,
+    "brand": "Sakura",
+    "model": "SAC 15 MB",
+    "name": "Sakura SAC 15 MB 15000 BTU Mobil Klima",
+    "btus_cooling": 15000,
+    "power_cooling_watt": 1600,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 20,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 108,
+    "brand": "Sakura",
+    "model": "SAC 16 MB",
+    "name": "Sakura SAC 16 MB 16000 BTU Mobil Klima",
+    "btus_cooling": 16000,
+    "power_cooling_watt": 1700,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 22,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 109,
+    "brand": "Sakura",
+    "model": "SAC 17 MB",
+    "name": "Sakura SAC 17 MB 17000 BTU Mobil Klima",
+    "btus_cooling": 17000,
+    "power_cooling_watt": 1800,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 24,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
+    ]
+  },
+  {
+    "id": 110,
+    "brand": "Sakura",
+    "model": "SAC 18 MB",
+    "name": "Sakura SAC 18 MB 18000 BTU Mobil Klima",
+    "btus_cooling": 18000,
+    "power_cooling_watt": 1900,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 26,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp"
     ]
   }
 ]
