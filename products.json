@@ -70,8 +70,8 @@
     "remote_control": true,
     "inverter": true,
     "heating_function": true,
-    "packaging_dimensions_mm": {"width": 850, "height": 350, "depth": 270},
-    "unit_dimensions_mm": {"width": 800, "height": 280, "depth": 190},
+    "packaging_dimensions_mm": { "width": 850, "height": 350, "depth": 270 },
+    "unit_dimensions_mm": { "width": 800, "height": 280, "depth": 190 },
     "package_weight_kg": 9.5,
     "unit_weight_kg": 7.2,
     "energy_rating": "A++",
@@ -79,10 +79,9 @@
     "warranty": "2 Yıl Samsung Garantili",
     "contents": ["Kullanma Kılavuzu", "Uzaktan Kumanda"],
     "images": [
-  "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg",
-  "https://res.cloudinary.com/diyibvvua/image/upload/v1765274986/id1dislim_quabfh.webp"
-]
-
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg",
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765274986/id1dislim_quabfh.webp"
+    ]
   },
   {
     "id": 4,
@@ -326,5 +325,42 @@
     "warranty": "2 Yıl Daikin Garantili",
     "contents": ["Kullanma Kılavuzu", "Uzaktan Kumanda"],
     "images": ["https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg", "https://res.cloudinary.com/diyibvvua/image/upload/v1765274986/id1dislim_quabfh.webp"]
-  }
+  },
+  {
+  "id": 203,
+  "brand": "Sakura",
+  "model": "SAC 12 MB",
+  "name": "Sakura SAC 12 MB 12000 BTU Portatif Klima",
+  "btus_cooling": 12000,
+  "btus_heating": 11200,
+  "power_cooling_watt": 1340,
+  "power_heating_watt": 1100,
+  "eer": 2.6,
+  "cop": 3,
+  "noise_indoor_db": null,
+  "type": "Mobil Klima",
+  "climate_technology": "On/Off",
+  "recommended_room_m2": 15,
+  "dehumidify": true,
+  "remote_control": true,
+  "sleep_mode": true,
+  "timer": true,
+  "adjustable_fan": true,
+  "silent_mode": true,
+  "display": "LED",
+  "filter_type": "Hava Filtresi",
+  "unit_dimensions_mm": {
+    "width": 688,
+    "height": 419,
+    "depth": 358
+  },
+  "unit_weight_kg": 28.2,
+  "energy_rating": null,
+  "color": "Beyaz",
+  "warranty": "2 Yıl Garantili",
+  "contents": [
+    "Kullanma Kılavuzu",
+    "Hava Tahliye Borusu"
+  ],
+  "images": []
 ]
