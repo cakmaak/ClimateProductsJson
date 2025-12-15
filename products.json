@@ -359,5 +359,22 @@
     "images": [
       "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp","https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob5_lx4aum.webp"
     ]
-  }
+  },
+  {
+  "id": 301,
+  "brand": "Bosch",
+  "model": "Climate 5000i U/L 4C",
+  "name": "Bosch Climate 5000i U/L 4C Kaset Tipi Klima",
+  "btus_cooling": null,
+  "type": "Kaset Tipi Klima",
+  "recommended_room_m2": null,
+  "refrigerant": "R32",
+  "inverter": true,
+  "energy_rating": "A++",
+  "color": "Beyaz",
+  "images": [
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp","https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png","https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset4_vdhohn.webp","https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset2_l3yywg.webp"
+  ],
+  "features": ["Bağımsız kanat kontrolü","Eco modu","Sessiz mod","Opsiyonel bağlanabilirlik"]
+}
 ]
