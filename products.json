@@ -87,6 +87,93 @@
   },
 
   {
+    "id": 401,
+    "brand": "Bosch",
+    "model": "Climate CL2001U 35E",
+    "name": "Bosch Climate CL2001U 35E 12.000 BTU A++ Inverter Klima (Montaj Dahil)",
+    "type": "Split Klima",
+    "capacity": {
+      "cooling_btu": 12000,
+      "heating_btu": 12000,
+      "cooling_kw": 3.6,
+      "heating_kw": 3.8
+    },
+    "energy": {
+      "cooling_class": "A++",
+      "heating_class": "A+",
+      "seer": 6.1,
+      "scop": 4.0
+    },
+    "inverter": true,
+    "refrigerant": {
+      "type": "R32",
+      "charge_kg": 0.55,
+      "gwp": 675,
+      "co2_equivalent_ton": 0.371
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+      "A++ soğutma ve A+ ısıtma enerji verimliliği",
+      "Inverter teknoloji ile düşük enerji tüketimi",
+      "Turbo modu ile hızlı soğutma ve ısıtma",
+      "Otomatik hareketli dikey kanatlar",
+      "Sessiz ve dengeli hava dağılımı",
+      "Çevre dostu R32 soğutucu akışkan",
+      "Montaj dahil satış"
+    ],
+    "other_features": {
+      "airflow": {
+        "indoor_airflow_m3h": 540,
+        "outdoor_airflow_m3h": 1800
+      },
+      "noise_levels_db": {
+        "indoor_cooling": 55,
+        "outdoor_cooling": 63,
+        "indoor_heating": 55,
+        "outdoor_heating": 63
+      },
+      "operating_temperature": {
+        "cooling_min": -15,
+        "cooling_max": 50,
+        "heating_min": -15,
+        "heating_max": 24
+      },
+      "design": {
+        "removable_panel": true,
+        "dual_drain_connection": true
+      }
+    },
+    "dimensions_mm": {
+      "indoor_unit": {
+        "width": 805,
+        "height": 285,
+        "depth": 194
+      },
+      "outdoor_unit": {
+        "width": 720,
+        "height": 495,
+        "depth": 270
+      }
+    },
+    "certifications": {
+      "erp_energy_label": "A++",
+      "contains_f_gas": true,
+      "hermetic_sealed": false
+    },
+    "notes": [
+      "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
+      "Yetkili servis dışı kurulumlarda garanti geçersizdir"
+    ],
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
+    ],
+    "stock_status": "5 adetten az"
+  },
+
+  {
     "id": 101,
     "brand": "Sakura",
     "model": "SAC 9 MB",
@@ -144,5 +231,49 @@
       "Sessiz mod"
       
     ]
-  }
+  },
+
+  {
+    "id": 110,
+    "brand": "Sakura",
+    "model": "SAC 18 MB",
+    "name": "Sakura SAC 18 MB 18000 BTU Mobil Klima",
+    "btus_cooling": 18000,
+    "power_cooling_watt": 1900,
+    "type": "Mobil Klima",
+    "recommended_room_m2": 26,
+    "climate_technology": "On/Off",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp",
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob5_lx4aum.webp"
+    ]
+  },
+
+  {
+    "id": 301,
+    "brand": "Bosch",
+    "model": "Climate 5000i U/L 4C",
+    "name": "Bosch Climate 5000i U/L 4C Kaset Tipi Klima",
+    "btus_cooling": null,
+    "type": "Kaset Tipi Klima",
+    "recommended_room_m2": null,
+    "refrigerant": "R32",
+    "inverter": true,
+    "energy_rating": "A++",
+    "color": "Beyaz",
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset4_vdhohn.webp",
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset2_l3yywg.webp"
+    ],
+    "features": [
+      "Bağımsız kanat kontrolü",
+      "Eco modu",
+      "Sessiz mod"
+      
+    ]
+  },
+  
 ]
