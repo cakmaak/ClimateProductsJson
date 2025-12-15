@@ -1,214 +1,96 @@
 [
-  {
-    "id": 1,
-    "brand": "Bosch",
-    "model": "Climate CL2000U W 35 E A++",
-    "name": "Bosch Climate CL2000U W 35 E A++ 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1213,
-    "noise_outdoor_db": 56,
-    "noise_indoor_db": 40.5,
-    "type": "Split Klima",
-    "recommended_room_m2": 16,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
+ {
+  "id": 401,
+  "brand": "Bosch",
+  "model": "Climate CL2001U 35E",
+  "name": "Bosch Climate CL2001U 35E 12.000 BTU A++ Inverter Klima (Montaj Dahil)",
+  "type": "Split Klima",
+  "capacity": {
+    "cooling_btu": 12000,
+    "heating_btu": 12000,
+    "cooling_kw": 3.6,
+    "heating_kw": 3.8
   },
-  {
-    "id": 2,
-    "brand": "Bosch",
-    "model": "Climate CL3000X W 42 E A++",
-    "name": "Bosch Climate CL3000X W 42 E A++ 14000 BTU Duvar Tipi Klima",
-    "btus_cooling": 14000,
-    "btus_heating": 15000,
-    "power_cooling_watt": 1350,
-    "noise_indoor_db": 42,
-    "type": "Split Klima",
-    "recommended_room_m2": 20,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
+  "energy": {
+    "cooling_class": "A++",
+    "heating_class": "A+",
+    "seer": 6.1,
+    "scop": 4.0
   },
-  {
-    "id": 3,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
+  "inverter": true,
+  "refrigerant": {
+    "type": "R32",
+    "charge_kg": 0.55,
+    "gwp": 675,
+    "co2_equivalent_ton": 0.371
   },
-   {
-    "id": 4,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
+  "color": "Beyaz",
+  "warranty_months": 24,
+
+  "highlight_features": [
+    "A++ soğutma ve A+ ısıtma enerji verimliliği",
+    "Inverter teknoloji ile düşük enerji tüketimi",
+    "Turbo modu ile hızlı soğutma ve ısıtma",
+    "Otomatik hareketli dikey kanatlar",
+    "Sessiz ve dengeli hava dağılımı",
+    "Çevre dostu R32 soğutucu akışkan",
+    "Montaj dahil satış"
+  ],
+
+  "other_features": {
+    "airflow": {
+      "indoor_airflow_m3h": 540,
+      "outdoor_airflow_m3h": 1800
+    },
+    "noise_levels_db": {
+      "indoor_cooling": 55,
+      "outdoor_cooling": 63,
+      "indoor_heating": 55,
+      "outdoor_heating": 63
+    },
+    "operating_temperature": {
+      "cooling_min": -15,
+      "cooling_max": 50,
+      "heating_min": -15,
+      "heating_max": 24
+    },
+    "design": {
+      "removable_panel": true,
+      "dual_drain_connection": true
+    }
   },
-   {
-    "id": 5,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
+
+  "dimensions_mm": {
+    "indoor_unit": {
+      "width": 805,
+      "height": 285,
+      "depth": 194
+    },
+    "outdoor_unit": {
+      "width": 720,
+      "height": 495,
+      "depth": 270
+    }
   },
-   {
-    "id": 6,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
+
+  "certifications": {
+    "erp_energy_label": "A++",
+    "contains_f_gas": true,
+    "hermetic_sealed": false
   },
-   {
-    "id": 7,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
-  },
-   {
-    "id": 8,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
-  },
-   {
-    "id": 9,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
-  },
-   {
-    "id": 10,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
-  },
-   {
-    "id": 11,
-    "brand": "Samsung",
-    "model": "WindFree AR12",
-    "name": "Samsung WindFree 12000 BTU Duvar Tipi Klima",
-    "btus_cooling": 12000,
-    "btus_heating": 13000,
-    "power_cooling_watt": 1200,
-    "noise_indoor_db": 38,
-    "type": "Split Klima",
-    "recommended_room_m2": 15,
-    "refrigerant": "R32",
-    "inverter": true,
-    "energy_rating": "A++",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765460890/o528853v389_Climate_2000_v5_ctekon.jpg"
-    ]
-  },
+
+  "notes": [
+    "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
+    "Yetkili servis dışı kurulumlarda garanti geçersizdir"
+  ],
+
+  "images": [
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg","https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png","https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
+  ],
+
+  "stock_status": "5 adetten az"
+}
+,
 
   {
     "id": 101,
@@ -376,5 +258,5 @@
     "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp","https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png","https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset4_vdhohn.webp","https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset2_l3yywg.webp"
   ],
   "features": ["Bağımsız kanat kontrolü","Eco modu","Sessiz mod","Opsiyonel bağlanabilirlik"]
-}
+},
 ]
