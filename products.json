@@ -258,17 +258,17 @@
   "stock_status": "Stokta var"
 },
 
-  {
-  "id": 4,
+   {
+  "id": 5,
   "brand": "Bosch",
   "model": "Climate CL2001U 70E",
-  "name": "Bosch Climate CL2001U 70E 48.000 BTU A++ Inverter Klima (Montaj Dahil)",
+  "name": "Bosch Climate CL2001U 70E 24.000 BTU A++ Inverter Split Klima (Montaj Dahil)",
   "type": "Split Klima",
-   "capacity": {
-    "cooling_btu": 48000,
-    "heating_btu": 52000,
-    "cooling_kw": 14.0,
-    "heating_kw": 15.2
+  "capacity": {
+    "cooling_btu": 24000,
+    "heating_btu": 26000,
+    "cooling_kw": 7.0,
+    "heating_kw": 7.6
   },
   "energy": {
     "cooling_class": "A++",
@@ -279,28 +279,31 @@
   "inverter": true,
   "refrigerant": {
     "type": "R32",
-    "gwp": 675
+    "charge_kg": 1.10,
+    "gwp": 675,
+    "co2_equivalent_ton": 0.743
   },
   "color": "Beyaz",
   "warranty_months": 24,
   "highlight_features": [
-    "360° dört yöne hava üfleme (4C kaset tasarım)",
     "A++ soğutma, A+ ısıtma enerji verimliliği",
     "Inverter kompresör ile düşük enerji tüketimi",
-    "Geniş alanlar için homojen hava dağılımı",
-    "Ticari ve ofis kullanımı için ideal",
-    "Sessiz çalışma modu",
-    "Taze hava bağlantı desteği",
-    "Çevre dostu R32 soğutucu akışkan"
+    "Turbo modu",
+    "Sessiz çalışma",
+    "Otomatik hareketli dikey kanatlar",
+    "Homojen hava dağılımı",
+    "R32 çevre dostu soğutucu gaz",
+    "Montaj dahil satış"
   ],
   "other_features": {
     "airflow": {
-      "indoor_airflow_m3h": 1900
+      "indoor_airflow_m3h": 1050,
+      "outdoor_airflow_m3h": 3200
     },
     "noise_levels_db": {
-      "indoor_low": 41,
-      "indoor_high": 49,
-      "outdoor": 58
+      "indoor_low": 34,
+      "indoor_high": 46,
+      "outdoor": 62
     },
     "operating_temperature": {
       "cooling_min": -15,
@@ -309,124 +312,39 @@
       "heating_max": 24
     },
     "design": {
-      "4_way_airflow": true,
-      "fresh_air_intake": true,
-      "condensate_pump": true
+      "removable_panel": true,
+      "dual_drain_connection": true
     }
   },
   "dimensions_mm": {
     "indoor_unit": {
-      "width": 840,
-      "height": 288,
-      "depth": 840
+      "width": 1082,
+      "height": 330,
+      "depth": 233
     },
     "outdoor_unit": {
-      "width": 952,
-      "height": 1333,
-      "depth": 415
+      "width": 890,
+      "height": 673,
+      "depth": 342
     }
   },
   "certifications": {
     "erp_energy_label": "A++",
-    "contains_f_gas": true
+    "contains_f_gas": true,
+    "hermetic_sealed": false
   },
   "notes": [
-    "Kaset tipi klimalar asma tavan gerektirir",
     "Kurulum yetkili servis tarafından yapılmalıdır",
-    "Garanti kapsamı için yetkili servis montajı zorunludur",
-    "Borulama desteği yoktur"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 5,
-  "brand": "Bosch",
-  "model": "Climate 5000i U/M 4C & 4CC",
-  "name": "Bosch Climate 5000i U/M 4C & 4CC Kaset Tipi Inverter Klima",
-  "type": "Kaset Tipi Klima",
-  "capacity": {
-    "cooling_btu": 48000,
-    "heating_btu": 52000,
-    "cooling_kw": 14.0,
-    "heating_kw": 15.2
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.2,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Geniş alanlar için yüksek kapasiteli salon tipi tasarım",
-    "A++ soğutma, A+ ısıtma enerji verimliliği",
-    "Inverter kompresör ile düşük enerji tüketimi",
-    "Uzun mesafeli güçlü hava üfleme",
-    "Sessiz çalışma modu",
-    "Ticari alanlar için ideal çözüm",
-    "Çevre dostu R32 soğutucu akışkan"
-  ],
-  "other_features": {
-    "airflow": {
-      "indoor_airflow_m3h": 2100
-    },
-    "noise_levels_db": {
-      "indoor_low": 43,
-      "indoor_high": 52,
-      "outdoor": 60
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    },
-    "design": {
-      "vertical_airflow": true,
-      "wide_air_distribution": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 580,
-      "height": 1870,
-      "depth": 400
-    },
-    "outdoor_unit": {
-      "width": 952,
-      "height": 1333,
-      "depth": 415
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Salon tipi klimalar geniş ve yüksek tavanlı alanlar için uygundur",
-    "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
     "Yetkili servis dışı montajlarda garanti geçersizdir"
   ],
   "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794911/salontipi1_jkgbmx.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi2_xvmmri.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi2_xvmmri.webp"
-  ],
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"],
   "stock_status": "Stokta var"
 },
+ 
+
   {
   "id": 6,
   "brand": "Bosch",
@@ -504,9 +422,99 @@
   ],
   "images": [
     "https://res.cloudinary.com/diyibvvua/image/upload/v1765794911/salontipi1_jkgbmx.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png",
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi3_tny4vm.webp",
     "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi2_xvmmri.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi2_xvmmri.webp"
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
+    
+  ],
+  "stock_status": "Stokta var"
+},
+  {
+  "id": 7,
+  "brand": "Bosch",
+  "model": "Climate 5000i U/L 4C",
+  "name": "Bosch Climate 5000i U/L 4C 48.000 BTU A++ Inverter Kaset Tipi Klima",
+  "type": "Kaset Tipi Klima",
+  "capacity": {
+    "cooling_btu": 48000,
+    "heating_btu": 52000,
+    "cooling_kw": 14.0,
+    "heating_kw": 15.2
+  },
+  "energy": {
+    "cooling_class": "A++",
+    "heating_class": "A+",
+    "seer": 6.2,
+    "scop": 4.0
+  },
+  "inverter": true,
+  "refrigerant": {
+    "type": "R32",
+    "charge_kg": 2.2,
+    "gwp": 675,
+    "co2_equivalent_ton": 1.485
+  },
+  "color": "Beyaz",
+  "warranty_months": 24,
+  "highlight_features": [
+    "360° dört yöne hava üfleme (4C tasarım)",
+    "Geniş alanlar için yüksek kapasiteli performans",
+    "A++ soğutma ve A+ ısıtma enerji verimliliği",
+    "Inverter kompresör ile düşük enerji tüketimi",
+    "Homojen hava dağılımı",
+    "Sessiz çalışma modu",
+    "Taze hava bağlantı desteği",
+    "Drenaj pompası standart",
+    "R32 çevre dostu soğutucu akışkan"
+  ],
+  "other_features": {
+    "airflow": {
+      "indoor_airflow_m3h": 1900
+    },
+    "noise_levels_db": {
+      "indoor_low": 41,
+      "indoor_high": 49,
+      "outdoor": 58
+    },
+    "operating_temperature": {
+      "cooling_min": -15,
+      "cooling_max": 50,
+      "heating_min": -15,
+      "heating_max": 24
+    },
+    "design": {
+      "four_way_airflow": true,
+      "fresh_air_intake": true,
+      "condensate_pump": true,
+      "wired_controller_support": true
+    }
+  },
+  "dimensions_mm": {
+    "indoor_unit": {
+      "width": 840,
+      "height": 288,
+      "depth": 840
+    },
+    "outdoor_unit": {
+      "width": 952,
+      "height": 1333,
+      "depth": 415
+    }
+  },
+  "certifications": {
+    "erp_energy_label": "A++",
+    "contains_f_gas": true
+  },
+  "notes": [
+    "Kaset tipi klimalar asma tavan gerektirir",
+    "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
+    "Garanti kapsamı için yetkili servis montajı zorunludur"
+  ],
+  "images": [
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
+    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
   ],
   "stock_status": "Stokta var"
 },
