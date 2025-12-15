@@ -1,6 +1,6 @@
 [
   {
-    "id": 401,
+    "id": 1,
     "brand": "Bosch",
     "model": "Climate CL2001U 35E",
     "name": "Bosch Climate CL2001U 35E 12.000 BTU A++ Inverter Klima (Montaj Dahil)",
@@ -87,14 +87,14 @@
   },
 
   {
-    "id": 401,
+    "id": 2,
     "brand": "Bosch",
-    "model": "Climate CL2001U 35E",
-    "name": "Bosch Climate CL2001U 35E 12.000 BTU A++ Inverter Klima (Montaj Dahil)",
+    "model": "Climate CL2001U 26E",
+    "name": "Bosch Climate CL2001U 26E 9.000 BTU A++ Inverter Klima (Montaj Dahil)",
     "type": "Split Klima",
     "capacity": {
-      "cooling_btu": 12000,
-      "heating_btu": 12000,
+      "cooling_btu": 9000,
+      "heating_btu": 9000,
       "cooling_kw": 3.6,
       "heating_kw": 3.8
     },
