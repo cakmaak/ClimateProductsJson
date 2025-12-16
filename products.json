@@ -1136,7 +1136,7 @@
   "name": "Sakura Arashi SAC 12 12.000 BTU A++ Inverter Split Klima",
   "type": "Split Klima",
   "capacity": {
-    "cooling_btu": 11941,
+    "cooling_btu": 12000,
     "heating_btu": 11941,
     "cooling_kw": 3.5,
     "heating_kw": 3.5
@@ -1216,7 +1216,7 @@
   "name": "Sakura Arashi SAC 18 18.000 BTU A++ Inverter Split Klima",
   "type": "Split Klima",
   "capacity": {
-    "cooling_btu": 17401,
+    "cooling_btu": 18000,
     "heating_btu": 17401,
     "cooling_kw": 5.1,
     "heating_kw": 5.1
