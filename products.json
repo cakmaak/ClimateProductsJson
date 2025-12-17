@@ -1437,76 +1437,52 @@
         ],
         "stock_status": "Stokta var"
     },
-    {
-        "id": 57,
-        "brand": "Sakura",
-        "model": "Sakura Kaset Tipi 42",
-        "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 42.000 BTU",
-        "type": "Kaset Tipi Klima",
-        "price": "₺ 86.000,00",
-        "capacity": {
-            "cooling_btu": 42000,
-            "heating_btu": 48000,
-            "cooling_kw": 12.3,
-            "heating_kw": 14.1
-        },
-        "energy": {
-            "cooling_class": "A+",
-            "heating_class": "A",
-            "seer": 6.1,
-            "scop": 4
-        },
-        "inverter": true,
-        "refrigerant": {
-            "type": "R32",
-            "gwp": 675
-        },
-        "color": "Beyaz",
-        "warranty_months": 24,
-        "highlight_features": [
-            "Geniş alanlar için güçlü 42.000 BTU kapasite",
-            "Düşük enerji tüketimi",
-            "4-yönlü hava dağılımı",
-            "Sessiz çalışma"
-        ],
-        "other_features": {
-            "noise_levels_db": {
-                "indoor": 57,
-                "outdoor": 65
-            },
-            "operating_temperature": {
-                "cooling_min": -15,
-                "cooling_max": 50,
-                "heating_min": -15,
-                "heating_max": 24
-            }
-        },
-        "dimensions_mm": {
-            "indoor_unit": {
-                "width": 840,
-                "height": 290,
-                "depth": 840
-            },
-            "outdoor_unit": {
-                "width": null,
-                "height": null,
-                "depth": null
-            }
-        },
-        "certifications": {
-            "erp_energy_label": "A+",
-            "contains_f_gas": true
-        },
-        "notes": [
-            "Montaj dahil değildir",
-            "Yetkili servis ile kurulmalıdır"
-        ],
-        "images": [
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg",
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-        ],
-        "stock_status": "Stokta var"
+    
+ {
+    "id": 57,
+    "brand": "Sakura",
+    "model": "Sakura Kaset Tipi 42",
+    "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 42.000 BTU",
+    "type": "Kaset Tipi Klima",
+    "price": "₺ 86.000,00",
+    "capacity": {
+        "cooling_btu": 42000,
+        "heating_btu": 48000,
+        "cooling_kw": 12.3,
+        "heating_kw": 14.1
     },
+    "energy": {
+        "cooling_class": "A+",
+        "heating_class": "A",
+        "seer": 6.1,
+        "scop": 4
+    },
+    "inverter": true,
+    "refrigerant": {
+        "type": "R32",
+        "gwp": 675
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+        "Geniş alanlar için güçlü 42.000 BTU kapasite",
+        "Düşük enerji tüketimi",
+        "4-yönlü hava dağılımı",
+        "Sessiz çalışma"
+    ],
+    "other_features": {
+        "noise_levels_db": {
+            "indoor": 57,
+            "outdoor": 65
+        },
+        "operating_temperature": {
+            "cooling_min": -15,
+            "cooling_max": 50,
+            "heating_min": -15,
+            "heating_max": 24
+        }
+    }
+},
     {
         "id": 58,
         "brand": "Sakura",
