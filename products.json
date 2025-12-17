@@ -1,1606 +1,1754 @@
 [
-  {
-    "id": 38,
-    "brand": "Bosch",
-    "model": "Climate CL2001U 35E",
-    "name": "Bosch Climate CL2001U 35E 12.000 BTU A++ Inverter Klima (Montaj Dahil)",
-    "type": "Split Klima",
-    "price":"₺ 31.950,00",
-    "capacity": {
-      "cooling_btu": 12000,
-      "heating_btu": 12000,
-      "cooling_kw": 3.6,
-      "heating_kw": 3.8
+    {
+        "id": 38,
+        "brand": "Bosch",
+        "model": "Climate CL2001U 35E",
+        "name": "Bosch Climate CL2001U 35E 12.000 BTU A++ Inverter Klima (Montaj Dahil)",
+        "type": "Split Klima",
+        "price": "₺ 31.950,00",
+        "capacity": {
+            "cooling_btu": 12000,
+            "heating_btu": 12000,
+            "cooling_kw": 3.6,
+            "heating_kw": 3.8
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "charge_kg": 0.55,
+            "gwp": 675,
+            "co2_equivalent_ton": 0.371
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter teknoloji ile düşük enerji tüketimi",
+            "Turbo modu ile hızlı soğutma ve ısıtma",
+            "Otomatik hareketli dikey kanatlar",
+            "Sessiz ve dengeli hava dağılımı",
+            "Çevre dostu R32 soğutucu akışkan",
+            "Montaj dahil satış"
+        ],
+        "other_features": {
+            "airflow": {
+                "indoor_airflow_m3h": 540,
+                "outdoor_airflow_m3h": 1800
+            },
+            "noise_levels_db": {
+                "indoor_cooling": 55,
+                "outdoor_cooling": 63,
+                "indoor_heating": 55,
+                "outdoor_heating": 63
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "design": {
+                "removable_panel": true,
+                "dual_drain_connection": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 805,
+                "height": 285,
+                "depth": 194
+            },
+            "outdoor_unit": {
+                "width": 720,
+                "height": 495,
+                "depth": 270
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true,
+            "hermetic_sealed": false
+        },
+        "notes": [
+            "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
+            "Yetkili servis dışı kurulumlarda garanti geçersizdir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
+        ],
+        "stock_status": "5 adetten az"
     },
-    "energy": {
-      "cooling_class": "A++",
-      "heating_class": "A+",
-      "seer": 6.1,
-      "scop": 4.0
+    {
+        "id": 39,
+        "brand": "Bosch",
+        "model": "Climate CL2001U 26E",
+        "name": "Bosch Climate CL2001U 26E 9.000 BTU A++ Inverter Klima (Montaj Dahil)",
+        "type": "Split Klima",
+        "capacity": {
+            "cooling_btu": 9000,
+            "heating_btu": 10000,
+            "cooling_kw": 2.6,
+            "heating_kw": 2.93
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.2,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "charge_kg": 0.5,
+            "gwp": 675,
+            "co2_equivalent_ton": 0.338
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter teknoloji ile düşük enerji tüketimi",
+            "Sessiz çalışma",
+            "Turbo mod",
+            "Uyku modu",
+            "R32 çevre dostu gaz"
+        ],
+        "other_features": {
+            "airflow": {
+                "indoor_airflow_m3h": null,
+                "outdoor_airflow_m3h": null
+            },
+            "noise_levels_db": {
+                "indoor_low": 25,
+                "indoor_high": 38.5,
+                "outdoor": 55.5
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "design": {
+                "removable_panel": true,
+                "dual_drain_connection": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 805,
+                "height": 285,
+                "depth": 194
+            },
+            "outdoor_unit": {
+                "width": 720,
+                "height": 495,
+                "depth": 270
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true,
+            "hermetic_sealed": false
+        },
+        "notes": [
+            "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
+            "Yetkili servis dışı kurulumlarda garanti geçersizdir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
+        ]
     },
-    "inverter": true,
-    "refrigerant": {
-      "type": "R32",
-      "charge_kg": 0.55,
-      "gwp": 675,
-      "co2_equivalent_ton": 0.371
+    {
+        "id": 40,
+        "brand": "Bosch",
+        "model": "Climate CL2001U 53E",
+        "name": "Bosch Climate CL2001U 53E 18.000 BTU A++ Inverter Klima (Montaj Dahil)",
+        "type": "Split Klima",
+        "capacity": {
+            "cooling_btu": 18000,
+            "heating_btu": 19000,
+            "cooling_kw": 5.3,
+            "heating_kw": 5.6
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "charge_kg": 0.85,
+            "gwp": 675,
+            "co2_equivalent_ton": 0.574
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter teknoloji ile düşük enerji tüketimi",
+            "Turbo modu ile hızlı soğutma ve ısıtma",
+            "Otomatik hareketli dikey kanatlar",
+            "Sessiz çalışma modu",
+            "Homojen hava dağılımı",
+            "Çevre dostu R32 soğutucu akışkan",
+            "Montaj dahil satış"
+        ],
+        "other_features": {
+            "airflow": {
+                "indoor_airflow_m3h": 850,
+                "outdoor_airflow_m3h": 2800
+            },
+            "noise_levels_db": {
+                "indoor_cooling": 58,
+                "outdoor_cooling": 65,
+                "indoor_heating": 58,
+                "outdoor_heating": 65
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "design": {
+                "removable_panel": true,
+                "dual_drain_connection": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 971,
+                "height": 321,
+                "depth": 228
+            },
+            "outdoor_unit": {
+                "width": 805,
+                "height": 554,
+                "depth": 330
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true,
+            "hermetic_sealed": false
+        },
+        "notes": [
+            "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
+            "Yetkili servis dışı kurulumlarda garanti geçersizdir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
+        ],
+        "stock_status": "Stokta var"
     },
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "highlight_features": [
-      "A++ soğutma ve A+ ısıtma enerji verimliliği",
-      "Inverter teknoloji ile düşük enerji tüketimi",
-      "Turbo modu ile hızlı soğutma ve ısıtma",
-      "Otomatik hareketli dikey kanatlar",
-      "Sessiz ve dengeli hava dağılımı",
-      "Çevre dostu R32 soğutucu akışkan",
-      "Montaj dahil satış"
-    ],
-    "other_features": {
-      "airflow": {
-        "indoor_airflow_m3h": 540,
-        "outdoor_airflow_m3h": 1800
-      },
-      "noise_levels_db": {
-        "indoor_cooling": 55,
-        "outdoor_cooling": 63,
-        "indoor_heating": 55,
-        "outdoor_heating": 63
-      },
-      "operating_temperature": {
-        "cooling_min": -15,
-        "cooling_max": 50,
-        "heating_min": -15,
-        "heating_max": 24
-      },
-      "design": {
-        "removable_panel": true,
-        "dual_drain_connection": true
-      }
+    {
+        "id": 41,
+        "brand": "Bosch",
+        "model": "Climate CL2001U 70E",
+        "name": "Bosch Climate CL2001U 70E 24.000 BTU A++ Inverter Split Klima (Montaj Dahil)",
+        "type": "Split Klima",
+        "capacity": {
+            "cooling_btu": 24000,
+            "heating_btu": 26000,
+            "cooling_kw": 7,
+            "heating_kw": 7.6
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.3,
+            "scop": 4.1
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "charge_kg": 1.1,
+            "gwp": 675,
+            "co2_equivalent_ton": 0.743
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma, A+ ısıtma enerji verimliliği",
+            "Inverter kompresör ile düşük enerji tüketimi",
+            "Turbo modu",
+            "Sessiz çalışma",
+            "Otomatik hareketli dikey kanatlar",
+            "Homojen hava dağılımı",
+            "R32 çevre dostu soğutucu gaz",
+            "Montaj dahil satış"
+        ],
+        "other_features": {
+            "airflow": {
+                "indoor_airflow_m3h": 1050,
+                "outdoor_airflow_m3h": 3200
+            },
+            "noise_levels_db": {
+                "indoor_low": 34,
+                "indoor_high": 46,
+                "outdoor": 62
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "design": {
+                "removable_panel": true,
+                "dual_drain_connection": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 1082,
+                "height": 330,
+                "depth": 233
+            },
+            "outdoor_unit": {
+                "width": 890,
+                "height": 673,
+                "depth": 342
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true,
+            "hermetic_sealed": false
+        },
+        "notes": [
+            "Kurulum yetkili servis tarafından yapılmalıdır",
+            "Yetkili servis dışı montajlarda garanti geçersizdir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
+        ],
+        "stock_status": "Stokta var"
     },
-    "dimensions_mm": {
-      "indoor_unit": {
-        "width": 805,
-        "height": 285,
-        "depth": 194
-      },
-      "outdoor_unit": {
-        "width": 720,
-        "height": 495,
-        "depth": 270
-      }
+    {
+        "id": 43,
+        "brand": "Bosch",
+        "model": "Climate 5000 L F",
+        "name": "Bosch Climate 5000 L F Salon Tipi Inverter Klima",
+        "type": "Salon Tipi Klima",
+        "capacity": {
+            "cooling_btu": 48000,
+            "heating_btu": 52000,
+            "cooling_kw": 14,
+            "heating_kw": 15.2
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.2,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Geniş alanlar için yüksek kapasiteli salon tipi tasarım",
+            "A++ soğutma, A+ ısıtma enerji verimliliği",
+            "Inverter kompresör ile düşük enerji tüketimi",
+            "Uzun mesafeli güçlü hava üfleme",
+            "Sessiz çalışma modu",
+            "Ticari alanlar için ideal çözüm",
+            "Çevre dostu R32 soğutucu akışkan"
+        ],
+        "other_features": {
+            "airflow": {
+                "indoor_airflow_m3h": 2100
+            },
+            "noise_levels_db": {
+                "indoor_low": 43,
+                "indoor_high": 52,
+                "outdoor": 60
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "design": {
+                "vertical_airflow": true,
+                "wide_air_distribution": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 580,
+                "height": 1870,
+                "depth": 400
+            },
+            "outdoor_unit": {
+                "width": 952,
+                "height": 1333,
+                "depth": 415
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Salon tipi klimalar geniş ve yüksek tavanlı alanlar için uygundur",
+            "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
+            "Yetkili servis dışı montajlarda garanti geçersizdir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765794911/salontipi1_jkgbmx.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi3_tny4vm.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi2_xvmmri.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "certifications": {
-      "erp_energy_label": "A++",
-      "contains_f_gas": true,
-      "hermetic_sealed": false
+    {
+        "id": 44,
+        "brand": "Bosch",
+        "model": "Climate 5000i U/L 4C",
+        "name": "Bosch Climate 5000i U/L 4C 48.000 BTU A++ Inverter Kaset Tipi Klima",
+        "type": "Kaset Tipi Klima",
+        "capacity": {
+            "cooling_btu": 48000,
+            "heating_btu": 52000,
+            "cooling_kw": 14,
+            "heating_kw": 15.2
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.2,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "charge_kg": 2.2,
+            "gwp": 675,
+            "co2_equivalent_ton": 1.485
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "360° dört yöne hava üfleme (4C tasarım)",
+            "Geniş alanlar için yüksek kapasiteli performans",
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter kompresör ile düşük enerji tüketimi",
+            "Homojen hava dağılımı",
+            "Sessiz çalışma modu",
+            "Taze hava bağlantı desteği",
+            "Drenaj pompası standart",
+            "R32 çevre dostu soğutucu akışkan"
+        ],
+        "other_features": {
+            "airflow": {
+                "indoor_airflow_m3h": 1900
+            },
+            "noise_levels_db": {
+                "indoor_low": 41,
+                "indoor_high": 49,
+                "outdoor": 58
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "design": {
+                "four_way_airflow": true,
+                "fresh_air_intake": true,
+                "condensate_pump": true,
+                "wired_controller_support": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 840,
+                "height": 288,
+                "depth": 840
+            },
+            "outdoor_unit": {
+                "width": 952,
+                "height": 1333,
+                "depth": 415
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Kaset tipi klimalar asma tavan gerektirir",
+            "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
+            "Garanti kapsamı için yetkili servis montajı zorunludur"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "notes": [
-      "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
-      "Yetkili servis dışı kurulumlarda garanti geçersizdir"
-    ],
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
-    ],
-    "stock_status": "5 adetten az"
-  },
-
- {
-  "id": 39,
-  "brand": "Bosch",
-  "model": "Climate CL2001U 26E",
-  "name": "Bosch Climate CL2001U 26E 9.000 BTU A++ Inverter Klima (Montaj Dahil)",
-  "type": "Split Klima",
-  "capacity": {
-    "cooling_btu": 9000,
-    "heating_btu": 10000,
-    "cooling_kw": 2.6,
-    "heating_kw": 2.93
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.2,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "charge_kg": 0.50,
-    "gwp": 675,
-    "co2_equivalent_ton": 0.338
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter teknoloji ile düşük enerji tüketimi",
-    "Sessiz çalışma",
-    "Turbo mod",
-    "Uyku modu",
-    "R32 çevre dostu gaz"
-  ],
-  "other_features": {
-    "airflow": {
-      "indoor_airflow_m3h": null,
-      "outdoor_airflow_m3h": null
+    {
+        "id": 45,
+        "brand": "Bosch",
+        "model": "Climate 5000i U/M 4C 18 E",
+        "name": "Bosch Climate 5000i U/M 4C 18.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
+        "type": "Kaset Tipi Klima",
+        "capacity": {
+            "cooling_btu": 18000,
+            "heating_btu": 18000,
+            "cooling_kw": 5.3,
+            "heating_kw": 5.3
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.2,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "4-yönlü hava üfleme ile homojen dağılım",
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter teknolojisi ile düşük enerji tüketimi",
+            "Turbo modu",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_low": 30,
+                "indoor_high": 46,
+                "outdoor": 55
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 910,
+                "height": 250,
+                "depth": 910
+            },
+            "outdoor_unit": {
+                "width": 946,
+                "height": 810,
+                "depth": 410
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis tarafından kurulmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "noise_levels_db": {
-      "indoor_low": 25,
-      "indoor_high": 38.5,
-      "outdoor": 55.5
+    {
+        "id": 46,
+        "brand": "Bosch",
+        "model": "Climate 5000i U/L 4C 36 E",
+        "name": "Bosch Climate 5000i U/L 4C 36.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
+        "type": "Kaset Tipi Klima",
+        "capacity": {
+            "cooling_btu": 36000,
+            "heating_btu": 40900,
+            "cooling_kw": 10.5,
+            "heating_kw": 12
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "4-yönlü hava akışı ile her köşeye etkin dağılım",
+            "Inverter teknolojisi ile düşük enerji tüketimi",
+            "Geniş alanlar için güçlü soğutma ve ısıtma",
+            "Turbo ve uyku modu"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_low": 46,
+                "indoor_high": 52,
+                "outdoor": 58
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 840,
+                "height": 245,
+                "depth": 840
+            },
+            "outdoor_unit": {
+                "width": 946,
+                "height": 810,
+                "depth": 410
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis tarafından kurulmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
+    {
+        "id": 47,
+        "brand": "Bosch",
+        "model": "Climate 5000i U/L 4C 42 E",
+        "name": "Bosch Climate 5000i U/L 4C 42.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
+        "type": "Kaset Tipi Klima",
+        "capacity": {
+            "cooling_btu": 42000,
+            "heating_btu": 48000,
+            "cooling_kw": 12.3,
+            "heating_kw": 14.1
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": null,
+            "scop": null
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Geniş alanlar için güçlü 42 000 BTU soğutma",
+            "4-yönlü hava dağılımı",
+            "Inverter ile enerji tasarrufu",
+            "Turbo modu ile hızlı konfor"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_low": 50,
+                "indoor_high": 56,
+                "outdoor": 62
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 910,
+                "height": 250,
+                "depth": 910
+            },
+            "outdoor_unit": {
+                "width": 946,
+                "height": 810,
+                "depth": 410
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis tarafından kurulmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "design": {
-      "removable_panel": true,
-      "dual_drain_connection": true
+    {
+        "id": 48,
+        "brand": "Bosch",
+        "model": "Climate 5000i D 36",
+        "name": "Bosch Climate 5000i D 36.000 BTU A++ Inverter Gizli Tavan Tipi Split Klima",
+        "type": "Gizli Tavan Tipi Klima",
+        "capacity": {
+            "cooling_btu": 36000,
+            "heating_btu": 38000,
+            "cooling_kw": 10.5,
+            "heating_kw": 11.1
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.2,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "power_supply": "Monofaze",
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Gizli tavan uygulaması ile estetik çözüm",
+            "A++ enerji verimliliği",
+            "Inverter teknolojisi",
+            "Düşük ses seviyesi",
+            "Geniş hava kanalı bağlantı imkanı",
+            "Merkezi kontrol uyumluluğu"
+        ],
+        "other_features": {
+            "airflow": {
+                "indoor_airflow_m3h": 1800
+            },
+            "noise_levels_db": {
+                "indoor_low": 35,
+                "indoor_high": 45,
+                "outdoor": 58
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 46,
+                "heating_min": -15,
+                "heating_max": 24
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 1400,
+                "height": 300,
+                "depth": 700
+            },
+            "outdoor_unit": {
+                "width": 900,
+                "height": 800,
+                "depth": 350
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis tarafından kurulum yapılmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765883862/tavan_tipi_guhkrg.webp"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 49,
+        "brand": "Bosch",
+        "model": "Climate 5000i U/L D 48E",
+        "name": "Bosch Climate 5000i U/L D 48.000 BTU A++ Inverter Gizli Tavan Tipi Split Klima",
+        "type": "Gizli Tavan Tipi Klima",
+        "capacity": {
+            "cooling_btu": 48000,
+            "heating_btu": 48000,
+            "cooling_kw": 14,
+            "heating_kw": 14
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.2,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Inverter teknolojisi ile yüksek verim ve düşük enerji tüketimi",
+            "Gizli tavan tipi tasarım ile estetik montaj",
+            "R32 çevre dostu soğutucu akışkan",
+            "Turbo modu ile hızlı soğutma ve ısıtma",
+            "Sessiz çalışma",
+            "Opsiyonel merkezi kontrol desteği"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_low": 36,
+                "indoor_high": 48,
+                "outdoor": 60
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "controls": {
+                "remote_control": true,
+                "weekly_timer": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 840,
+                "height": 245,
+                "depth": 840
+            },
+            "outdoor_unit": {
+                "width": 900,
+                "height": 1170,
+                "depth": 350
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis tarafından kurulum yapılmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765883862/tavan_tipi_guhkrg.webp"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 50,
+        "brand": "Sakura",
+        "model": "Arashi SAC 28",
+        "name": "Sakura Arashi SAC 28 28.000 BTU A++ Inverter Salon Tipi Klima",
+        "type": "Salon Tipi Klima",
+        "capacity": {
+            "cooling_btu": 28000,
+            "heating_btu": 30000,
+            "cooling_kw": 8.2,
+            "heating_kw": 8.8
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter teknolojisi ile düşük enerji tüketimi",
+            "Salonlar için ideal güçlü performans",
+            "Turbo modu ile hızlı soğutma/ısıtma",
+            "Uyku modu",
+            "Zamanlayıcı fonksiyonu",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_low": 22,
+                "indoor_high": 46,
+                "outdoor": null
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 32
+            },
+            "controls": {
+                "remote_control": true,
+                "digital_display": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            },
+            "outdoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Kurulum yetkili servis tarafından yapılmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879290/sacura_salontip1_sru0wu.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879324/sacura_salontip2_tjqwie.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 51,
+        "brand": "Sakura",
+        "model": "Arashi SAC 42",
+        "name": "Sakura Arashi SAC 42 42.000 BTU A+ Inverter Salon Tipi Split Klima",
+        "type": "Salon Tipi Klima",
+        "capacity": {
+            "cooling_btu": 42000,
+            "heating_btu": 48000,
+            "cooling_kw": 12.3,
+            "heating_kw": 14.1
+        },
+        "energy": {
+            "cooling_class": "A+",
+            "heating_class": "A",
+            "seer": null,
+            "scop": null
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Salon tipi geniş alanlar için güçlü 42.000 BTU soğutma",
+            "Inverter teknolojisi ile düşük enerji tüketimi",
+            "Turbo modu",
+            "Uyku modu",
+            "Zamanlayıcı fonksiyonu",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor": 58,
+                "outdoor": 66
+            },
+            "operating_temperature": {
+                "cooling_min": -5,
+                "cooling_max": 55,
+                "heating_min": -15,
+                "heating_max": 32
+            },
+            "controls": {
+                "remote_control": true,
+                "digital_display": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            },
+            "outdoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A+",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis tarafından kurulmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765882509/salontipi42_fwxhkm.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765882509/salontipi42_II_srwwfu.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765882509/salontipi42_II_srwwfu.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 52,
+        "brand": "Sakura",
+        "model": "Arashi SAC 9",
+        "name": "Sakura Arashi SAC 9 9.000 BTU Split Klima",
+        "type": "Split Klima",
+        "capacity": {
+            "cooling_btu": 8530,
+            "heating_btu": 8871,
+            "cooling_kw": 2.5,
+            "heating_kw": 2.6
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter compressor ile düşük enerji tüketimi",
+            "Turbo mod",
+            "Uyku modu",
+            "Zamanlayıcı",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_cooling": "28-37",
+                "outdoor_cooling": null
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "controls": {
+                "remote_control": true,
+                "digital_display": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 800,
+                "height": 280,
+                "depth": 195
+            },
+            "outdoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Kurulum yetkili servis tarafından yapılmalıdır",
+            "Montaj dahil değildir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879856/arashi_g2_wzsfyh.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765886367/arashihava_yazxpe.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765886470/sak_mavitema_jgqcs4.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 53,
+        "brand": "Sakura",
+        "model": "Arashi SAC 12",
+        "name": "Sakura Arashi SAC 12 12.000 BTU A++ Inverter Split Klima",
+        "type": "Split Klima",
+        "capacity": {
+            "cooling_btu": 12000,
+            "heating_btu": 11941,
+            "cooling_kw": 3.5,
+            "heating_kw": 3.5
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter teknoloji ile düşük enerji tüketimi",
+            "Turbo modu ile hızlı soğutma",
+            "Uyku modu",
+            "Zamanlayıcı fonksiyonu",
+            "Otomatik dikey hava salınımı",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_low": 28,
+                "indoor_high": 40,
+                "outdoor": 53
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 46,
+                "heating_min": -15,
+                "heating_max": 30
+            },
+            "controls": {
+                "remote_control": true,
+                "auto_restart": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 780,
+                "height": 202,
+                "depth": 276
+            },
+            "outdoor_unit": {
+                "width": 700,
+                "height": 503,
+                "depth": 260
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Kurulum yetkili servis tarafından yapılmalıdır",
+            "Montaj dahil değildir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879856/arashi_g2_wzsfyh.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765886367/arashihava_yazxpe.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765886470/sak_mavitema_jgqcs4.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 54,
+        "brand": "Sakura",
+        "model": "Arashi SAC 18",
+        "name": "Sakura Arashi SAC 18 18.000 BTU A++ Inverter Split Klima",
+        "type": "Split Klima",
+        "capacity": {
+            "cooling_btu": 18000,
+            "heating_btu": 17401,
+            "cooling_kw": 5.1,
+            "heating_kw": 5.1
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter teknoloji ile düşük enerji tüketimi",
+            "Turbo mod",
+            "Uyku modu",
+            "Zamanlayıcı",
+            "Otomatik dikey hava salınımı",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_low": 30,
+                "indoor_high": 42,
+                "outdoor": 55
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 30
+            },
+            "controls": {
+                "remote_control": true,
+                "auto_restart": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 850,
+                "height": 202,
+                "depth": 276
+            },
+            "outdoor_unit": {
+                "width": 835,
+                "height": 546,
+                "depth": 322
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Kurulum yetkili servis tarafından yapılmalıdır",
+            "Montaj dahil değildir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879856/arashi_g2_wzsfyh.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765886367/arashihava_yazxpe.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765886470/sak_mavitema_jgqcs4.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 55,
+        "brand": "Sakura",
+        "model": "Arashi SAC 24",
+        "name": "Sakura Arashi SAC 24 24.000 BTU A++ Inverter Split Klima",
+        "type": "Split Klima",
+        "capacity": {
+            "cooling_btu": 24000,
+            "heating_btu": 24000,
+            "cooling_kw": 7,
+            "heating_kw": 7
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma enerji verimliliği",
+            "Inverter teknoloji ile düşük enerji tüketimi",
+            "Turbo mod ile hızlı soğutma",
+            "Uyku modu",
+            "Zamanlayıcı",
+            "Otomatik dikey hava salınımı",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor_low": 33,
+                "indoor_high": 45,
+                "outdoor": 60
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 30
+            },
+            "controls": {
+                "remote_control": true,
+                "auto_restart": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            },
+            "outdoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Kurulum yetkili servis tarafından yapılmalıdır",
+            "Montaj dahil değildir"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879856/arashi_g2_wzsfyh.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765886367/arashihava_yazxpe.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765886470/sak_mavitema_jgqcs4.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 56,
+        "brand": "Sakura",
+        "model": "Sakura Kaset Tipi 24",
+        "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 24.000 BTU",
+        "type": "Kaset Tipi Klima",
+        "capacity": {
+            "cooling_btu": 24000,
+            "heating_btu": 27000,
+            "cooling_kw": 7,
+            "heating_kw": 7.9
+        },
+        "energy": {
+            "cooling_class": "A++",
+            "heating_class": "A+",
+            "seer": 6.3,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "A++ soğutma ve A+ ısıtma verimliliği",
+            "Inverter teknolojiyle düşük enerji tüketimi",
+            "4-yönlü hava üfleme",
+            "Turbo modu",
+            "Uyku modu"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor": 45,
+                "outdoor": 55
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 840,
+                "height": 245,
+                "depth": 840
+            },
+            "outdoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A++",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis tarafından kurulmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 57,
+        "brand": "Sakura",
+        "model": "Sakura Kaset Tipi 42",
+        "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 42.000 BTU",
+        "type": "Kaset Tipi Klima",
+        "capacity": {
+            "cooling_btu": 42000,
+            "heating_btu": 48000,
+            "cooling_kw": 12.3,
+            "heating_kw": 14.1
+        },
+        "energy": {
+            "cooling_class": "A+",
+            "heating_class": "A",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Geniş alanlar için güçlü 42.000 BTU kapasite",
+            "Düşük enerji tüketimi",
+            "4-yönlü hava dağılımı",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor": 57,
+                "outdoor": 65
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 840,
+                "height": 290,
+                "depth": 840
+            },
+            "outdoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A+",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis ile kurulmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 58,
+        "brand": "Sakura",
+        "model": "Sakura Kaset Tipi 48 ",
+        "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 48.000 BTU Trifaze",
+        "type": "Kaset Tipi Klima",
+        "capacity": {
+            "cooling_btu": 48000,
+            "heating_btu": 54000,
+            "cooling_kw": 14,
+            "heating_kw": 15.8
+        },
+        "energy": {
+            "cooling_class": "A+",
+            "heating_class": "A",
+            "seer": 6,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Yüksek kapasiteli ticari klima",
+            "Trifaze inverter ile stabil performans",
+            "4-yönlü hava üfleme",
+            "Düşük enerji tüketimi"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor": 60,
+                "outdoor": 68
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 910,
+                "height": 250,
+                "depth": 910
+            },
+            "outdoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A+",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis ile kurulmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
+        "id": 59,
+        "brand": "Sakura",
+        "model": "SAC 18 MB",
+        "name": "Sakura SAC 18 MB 18000 BTU Mobil Klima",
+        "btus_cooling": 18000,
+        "power_cooling_watt": 1900,
+        "type": "Mobil Klima",
+        "recommended_room_m2": 26,
+        "climate_technology": "On/Off",
+        "color": "Beyaz",
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob5_lx4aum.webp"
+        ]
+    },
+    {
+        "id": "multi-2-18k-9k-12k",
+        "brand": "Bosch",
+        "system_type": "Multi Split Inverter 2 iç ünite 9000 btu +12000 btu + 1 dış ünite 18000 btu",
+        "outdoor_unit": {
+            "capacity_btu": 18000,
+            "max_indoor_units": 2
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 12000
+            }
+        ],
+        "total_price": 53350,
+        "currency": "₺",
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
+        ]
+    },
+    {
+        "id": "multi-2-18k-9k-9k",
+        "brand": "Bosch",
+        "system_type": "Multi Split Inverter 2 iç ünite 9000 btu+9000 btu + 1 dış ünite 18000 btu ",
+        "outdoor_unit": {
+            "capacity_btu": 18000,
+            "max_indoor_units": 2
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "total_price": 52850,
+        "currency": "₺",
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
+        ]
+    },
+    {
+        "id": "multi-3-27k-9k-9k-9k",
+        "brand": "Bosch",
+        "system_type": "Multi Split Inverter 3 adet 9000 btu  +  1 adet dış ünite 27000 btu",
+        "outdoor_unit": {
+            "capacity_btu": 27000,
+            "max_indoor_units": 3
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "total_price": 82300,
+        "currency": "₺",
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+        ]
+    },
+    {
+        "id": "multi-3-27k-18k-12k-9k",
+        "brand": "Bosch",
+        "system_type": "Multi Split Inverter 1 adet 18000 btu +  1 adet 12000 btu + 1 adet 9000 btu  1 adet dış ünite 27000 btu",
+        "outdoor_unit": {
+            "capacity_btu": 27000,
+            "max_indoor_units": 3
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 18000
+            },
+            {
+                "capacity_btu": 12000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "total_price": 85250,
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+        ]
+    },
+    {
+        "id": "multi-3-27k-12k-12k-9k",
+        "brand": "Bosch",
+        "system_type": "Multi Split Inverter 2 adet 9000 btu + 1 adet 12000 btu + 1 adet dış ünite 27000 btu",
+        "outdoor_unit": {
+            "capacity_btu": 27000,
+            "max_indoor_units": 3
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 12000
+            },
+            {
+                "capacity_btu": 12000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "total_price": 83250,
+        "currency": "₺",
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+        ]
+    },
+    {
+        "id": "multi-4-36k-9k-9k-9k-9k",
+        "brand": "Bosch",
+        "system_type": "Multi Split Inverter 4 adet 9000 btu + 1 adet dış ünite 36000 btu ",
+        "outdoor_unit": {
+            "capacity_btu": 36000,
+            "max_indoor_units": 4
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "total_price": 104250,
+        "currency": "₺",
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001369/5_li_m_beyaz_dlj0lg.png"
+        ]
+    },
+    {
+        "id": "multi-5-42k-9k-9k-9k-9k-9k",
+        "brand": "Bosch",
+        "system_type": "Multi Split Inverter 5 adet 9000 btu +  1 adet dış ünite 42000 btu ",
+        "outdoor_unit": {
+            "capacity_btu": 42000,
+            "max_indoor_units": 5
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "total_price": 117200,
+        "currency": "₺",
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001364/4_l%C3%BC_m_beyaz_qy4pfn.png"
+        ]
     }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 805,
-      "height": 285,
-      "depth": 194
-    },
-    "outdoor_unit": {
-      "width": 720,
-      "height": 495,
-      "depth": 270
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true,
-    "hermetic_sealed": false
-  },
-  "notes": [
-    "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
-    "Yetkili servis dışı kurulumlarda garanti geçersizdir"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
-  ]
-
-},
-  {
-  "id": 40,
-  "brand": "Bosch",
-  "model": "Climate CL2001U 53E",
-  "name": "Bosch Climate CL2001U 53E 18.000 BTU A++ Inverter Klima (Montaj Dahil)",
-  "type": "Split Klima",
-  "capacity": {
-    "cooling_btu": 18000,
-    "heating_btu": 19000,
-    "cooling_kw": 5.3,
-    "heating_kw": 5.6
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.1,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "charge_kg": 0.85,
-    "gwp": 675,
-    "co2_equivalent_ton": 0.574
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter teknoloji ile düşük enerji tüketimi",
-    "Turbo modu ile hızlı soğutma ve ısıtma",
-    "Otomatik hareketli dikey kanatlar",
-    "Sessiz çalışma modu",
-    "Homojen hava dağılımı",
-    "Çevre dostu R32 soğutucu akışkan",
-    "Montaj dahil satış"
-  ],
-  "other_features": {
-    "airflow": {
-      "indoor_airflow_m3h": 850,
-      "outdoor_airflow_m3h": 2800
-    },
-    "noise_levels_db": {
-      "indoor_cooling": 58,
-      "outdoor_cooling": 65,
-      "indoor_heating": 58,
-      "outdoor_heating": 65
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    },
-    "design": {
-      "removable_panel": true,
-      "dual_drain_connection": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 971,
-      "height": 321,
-      "depth": 228
-    },
-    "outdoor_unit": {
-      "width": 805,
-      "height": 554,
-      "depth": 330
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true,
-    "hermetic_sealed": false
-  },
-  "notes": [
-    "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
-    "Yetkili servis dışı kurulumlarda garanti geçersizdir"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"
-  ],
-  "stock_status": "Stokta var"
-},
-
-   {
-  "id": 41,
-  "brand": "Bosch",
-  "model": "Climate CL2001U 70E",
-  "name": "Bosch Climate CL2001U 70E 24.000 BTU A++ Inverter Split Klima (Montaj Dahil)",
-  "type": "Split Klima",
-  "capacity": {
-    "cooling_btu": 24000,
-    "heating_btu": 26000,
-    "cooling_kw": 7.0,
-    "heating_kw": 7.6
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.3,
-    "scop": 4.1
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "charge_kg": 1.10,
-    "gwp": 675,
-    "co2_equivalent_ton": 0.743
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma, A+ ısıtma enerji verimliliği",
-    "Inverter kompresör ile düşük enerji tüketimi",
-    "Turbo modu",
-    "Sessiz çalışma",
-    "Otomatik hareketli dikey kanatlar",
-    "Homojen hava dağılımı",
-    "R32 çevre dostu soğutucu gaz",
-    "Montaj dahil satış"
-  ],
-  "other_features": {
-    "airflow": {
-      "indoor_airflow_m3h": 1050,
-      "outdoor_airflow_m3h": 3200
-    },
-    "noise_levels_db": {
-      "indoor_low": 34,
-      "indoor_high": 46,
-      "outdoor": 62
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    },
-    "design": {
-      "removable_panel": true,
-      "dual_drain_connection": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 1082,
-      "height": 330,
-      "depth": 233
-    },
-    "outdoor_unit": {
-      "width": 890,
-      "height": 673,
-      "depth": 342
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true,
-    "hermetic_sealed": false
-  },
-  "notes": [
-    "Kurulum yetkili servis tarafından yapılmalıdır",
-    "Yetkili servis dışı montajlarda garanti geçersizdir"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789470/Cl2001_35E.jpg_i%C3%A7_bmmenq.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765789466/Cl2001_35E.jpg_D%C4%B1%C5%9F_l2gs2z.webp"],
-  "stock_status": "Stokta var"
-},
- 
-
-  {
-  "id": 43,
-  "brand": "Bosch",
-  "model": "Climate 5000 L F",
-  "name": "Bosch Climate 5000 L F Salon Tipi Inverter Klima",
-  "type": "Salon Tipi Klima",
-  "capacity": {
-    "cooling_btu": 48000,
-    "heating_btu": 52000,
-    "cooling_kw": 14.0,
-    "heating_kw": 15.2
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.2,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Geniş alanlar için yüksek kapasiteli salon tipi tasarım",
-    "A++ soğutma, A+ ısıtma enerji verimliliği",
-    "Inverter kompresör ile düşük enerji tüketimi",
-    "Uzun mesafeli güçlü hava üfleme",
-    "Sessiz çalışma modu",
-    "Ticari alanlar için ideal çözüm",
-    "Çevre dostu R32 soğutucu akışkan"
-  ],
-  "other_features": {
-    "airflow": {
-      "indoor_airflow_m3h": 2100
-    },
-    "noise_levels_db": {
-      "indoor_low": 43,
-      "indoor_high": 52,
-      "outdoor": 60
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    },
-    "design": {
-      "vertical_airflow": true,
-      "wide_air_distribution": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 580,
-      "height": 1870,
-      "depth": 400
-    },
-    "outdoor_unit": {
-      "width": 952,
-      "height": 1333,
-      "depth": 415
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Salon tipi klimalar geniş ve yüksek tavanlı alanlar için uygundur",
-    "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
-    "Yetkili servis dışı montajlarda garanti geçersizdir"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794911/salontipi1_jkgbmx.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi3_tny4vm.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794917/salontipi2_xvmmri.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
-    
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 44,
-  "brand": "Bosch",
-  "model": "Climate 5000i U/L 4C",
-  "name": "Bosch Climate 5000i U/L 4C 48.000 BTU A++ Inverter Kaset Tipi Klima",
-  "type": "Kaset Tipi Klima",
-  "capacity": {
-    "cooling_btu": 48000,
-    "heating_btu": 52000,
-    "cooling_kw": 14.0,
-    "heating_kw": 15.2
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.2,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "charge_kg": 2.2,
-    "gwp": 675,
-    "co2_equivalent_ton": 1.485
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "360° dört yöne hava üfleme (4C tasarım)",
-    "Geniş alanlar için yüksek kapasiteli performans",
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter kompresör ile düşük enerji tüketimi",
-    "Homojen hava dağılımı",
-    "Sessiz çalışma modu",
-    "Taze hava bağlantı desteği",
-    "Drenaj pompası standart",
-    "R32 çevre dostu soğutucu akışkan"
-  ],
-  "other_features": {
-    "airflow": {
-      "indoor_airflow_m3h": 1900
-    },
-    "noise_levels_db": {
-      "indoor_low": 41,
-      "indoor_high": 49,
-      "outdoor": 58
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    },
-    "design": {
-      "four_way_airflow": true,
-      "fresh_air_intake": true,
-      "condensate_pump": true,
-      "wired_controller_support": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 840,
-      "height": 288,
-      "depth": 840
-    },
-    "outdoor_unit": {
-      "width": 952,
-      "height": 1333,
-      "depth": 415
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Kaset tipi klimalar asma tavan gerektirir",
-    "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
-    "Garanti kapsamı için yetkili servis montajı zorunludur"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 45,
-  "brand": "Bosch",
-  "model": "Climate 5000i U/M 4C 18 E",
-  "name": "Bosch Climate 5000i U/M 4C 18.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
-  "type": "Kaset Tipi Klima",
-  "capacity": {
-    "cooling_btu": 18000,
-    "heating_btu": 18000,
-    "cooling_kw": 5.3,
-    "heating_kw": 5.3
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.2,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "4-yönlü hava üfleme ile homojen dağılım",
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter teknolojisi ile düşük enerji tüketimi",
-    "Turbo modu",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_low": 30,
-      "indoor_high": 46,
-      "outdoor": 55
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 910,
-      "height": 250,
-      "depth": 910
-    },
-    "outdoor_unit": {
-      "width": 946,
-      "height": 810,
-      "depth": 410
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis tarafından kurulmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
-  ],
-  "stock_status": "Stokta var"
-},
-
-  {
-  "id": 46,
-  "brand": "Bosch",
-  "model": "Climate 5000i U/L 4C 36 E",
-  "name": "Bosch Climate 5000i U/L 4C 36.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
-  "type": "Kaset Tipi Klima",
-  "capacity": {
-    "cooling_btu": 36000,
-    "heating_btu": 40900,
-    "cooling_kw": 10.5,
-    "heating_kw": 12.0
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.0,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "4-yönlü hava akışı ile her köşeye etkin dağılım",
-    "Inverter teknolojisi ile düşük enerji tüketimi",
-    "Geniş alanlar için güçlü soğutma ve ısıtma",
-    "Turbo ve uyku modu"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_low": 46,
-      "indoor_high": 52,
-      "outdoor": 58
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 840,
-      "height": 245,
-      "depth": 840
-    },
-    "outdoor_unit": {
-      "width": 946,
-      "height": 810,
-      "depth": 410
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis tarafından kurulmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 47,
-  "brand": "Bosch",
-  "model": "Climate 5000i U/L 4C 42 E",
-  "name": "Bosch Climate 5000i U/L 4C 42.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
-  "type": "Kaset Tipi Klima",
-  "capacity": {
-    "cooling_btu": 42000,
-    "heating_btu": 48000,
-    "cooling_kw": 12.3,
-    "heating_kw": 14.1
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": null,
-    "scop": null
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Geniş alanlar için güçlü 42 000 BTU soğutma",
-    "4-yönlü hava dağılımı",
-    "Inverter ile enerji tasarrufu",
-    "Turbo modu ile hızlı konfor"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_low": 50,
-      "indoor_high": 56,
-      "outdoor": 62
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 910,
-      "height": 250,
-      "depth": 910
-    },
-    "outdoor_unit": {
-      "width": 946,
-      "height": 810,
-      "depth": 410
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis tarafından kurulmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785215/kaset3_x1xhkc.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
-  ],
-  "stock_status": "Stokta var"
-},
-
-
-
-{
-  "id": 48,
-  "brand": "Bosch",
-  "model": "Climate 5000i D 36",
-  "name": "Bosch Climate 5000i D 36.000 BTU A++ Inverter Gizli Tavan Tipi Split Klima",
-  "type": "Gizli Tavan Tipi Klima",
-  "capacity": {
-    "cooling_btu": 36000,
-    "heating_btu": 38000,
-    "cooling_kw": 10.5,
-    "heating_kw": 11.1
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.2,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "power_supply": "Monofaze",
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Gizli tavan uygulaması ile estetik çözüm",
-    "A++ enerji verimliliği",
-    "Inverter teknolojisi",
-    "Düşük ses seviyesi",
-    "Geniş hava kanalı bağlantı imkanı",
-    "Merkezi kontrol uyumluluğu"
-  ],
-  "other_features": {
-    "airflow": {
-      "indoor_airflow_m3h": 1800
-    },
-    "noise_levels_db": {
-      "indoor_low": 35,
-      "indoor_high": 45,
-      "outdoor": 58
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 46,
-      "heating_min": -15,
-      "heating_max": 24
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 1400,
-      "height": 300,
-      "depth": 700
-    },
-    "outdoor_unit": {
-      "width": 900,
-      "height": 800,
-      "depth": 350
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis tarafından kurulum yapılmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765883862/tavan_tipi_guhkrg.webp"
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 49,
-  "brand": "Bosch",
-  "model": "Climate 5000i U/L D 48E",
-  "name": "Bosch Climate 5000i U/L D 48.000 BTU A++ Inverter Gizli Tavan Tipi Split Klima",
-  "type": "Gizli Tavan Tipi Klima",
-  "capacity": {
-    "cooling_btu": 48000,
-    "heating_btu": 48000,
-    "cooling_kw": 14.0,
-    "heating_kw": 14.0
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.2,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Inverter teknolojisi ile yüksek verim ve düşük enerji tüketimi",
-    "Gizli tavan tipi tasarım ile estetik montaj",
-    "R32 çevre dostu soğutucu akışkan",
-    "Turbo modu ile hızlı soğutma ve ısıtma",
-    "Sessiz çalışma",
-    "Opsiyonel merkezi kontrol desteği"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_low": 36,
-      "indoor_high": 48,
-      "outdoor": 60
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    },
-    "controls": {
-      "remote_control": true,
-      "weekly_timer": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 840,
-      "height": 245,
-      "depth": 840
-    },
-    "outdoor_unit": {
-      "width": 900,
-      "height": 1170,
-      "depth": 350
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis tarafından kurulum yapılmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765883862/tavan_tipi_guhkrg.webp"
-  
-  ],
-  "stock_status": "Stokta var"
-},
-
-  
- {
-  "id": 50,
-  "brand": "Sakura",
-  "model": "Arashi SAC 28",
-  "name": "Sakura Arashi SAC 28 28.000 BTU A++ Inverter Salon Tipi Klima",
-  "type": "Salon Tipi Klima",
-  "capacity": {
-    "cooling_btu": 28000,
-    "heating_btu": 30000,
-    "cooling_kw": 8.2,
-    "heating_kw": 8.8
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.1,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter teknolojisi ile düşük enerji tüketimi",
-    "Salonlar için ideal güçlü performans",
-    "Turbo modu ile hızlı soğutma/ısıtma",
-    "Uyku modu",
-    "Zamanlayıcı fonksiyonu",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_low": 22,
-      "indoor_high": 46,
-      "outdoor": null
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 32
-    },
-    "controls": {
-      "remote_control": true,
-      "digital_display": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    },
-    "outdoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Kurulum yetkili servis tarafından yapılmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879290/sacura_salontip1_sru0wu.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879324/sacura_salontip2_tjqwie.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-    
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 51,
-  "brand": "Sakura",
-  "model": "Arashi SAC 42",
-  "name": "Sakura Arashi SAC 42 42.000 BTU A+ Inverter Salon Tipi Split Klima",
-  "type": "Salon Tipi Klima",
-  "capacity": {
-    "cooling_btu": 42000,
-    "heating_btu": 48000,
-    "cooling_kw": 12.3,
-    "heating_kw": 14.1
-  },
-  "energy": {
-    "cooling_class": "A+",
-    "heating_class": "A",
-    "seer": null,
-    "scop": null
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Salon tipi geniş alanlar için güçlü 42.000 BTU soğutma",
-    "Inverter teknolojisi ile düşük enerji tüketimi",
-    "Turbo modu",
-    "Uyku modu",
-    "Zamanlayıcı fonksiyonu",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor": 58,
-      "outdoor": 66
-    },
-    "operating_temperature": {
-      "cooling_min": -5,
-      "cooling_max": 55,
-      "heating_min": -15,
-      "heating_max": 32
-    },
-    "controls": {
-      "remote_control": true,
-      "digital_display": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    },
-    "outdoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A+",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis tarafından kurulmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765882509/salontipi42_fwxhkm.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765882509/salontipi42_II_srwwfu.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765882509/salontipi42_II_srwwfu.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-    
-  ],
-  "stock_status": "Stokta var"
-},
-
-
-  {
-  "id": 52,
-  "brand": "Sakura",
-  "model": "Arashi SAC 9",
-  "name": "Sakura Arashi SAC 9 9.000 BTU Split Klima",
-  "type": "Split Klima",
-  "capacity": {
-    "cooling_btu": 8530,
-    "heating_btu": 8871,
-    "cooling_kw": 2.5,
-    "heating_kw": 2.6
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.1,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter compressor ile düşük enerji tüketimi",
-    "Turbo mod",
-    "Uyku modu",
-    "Zamanlayıcı",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_cooling": "28-37",
-      "outdoor_cooling": null
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    },
-    "controls": {
-      "remote_control": true,
-      "digital_display": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 800,
-      "height": 280,
-      "depth": 195
-    },
-    "outdoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Kurulum yetkili servis tarafından yapılmalıdır",
-    "Montaj dahil değildir"
-  ],
-  "images": [
-   "https://res.cloudinary.com/diyibvvua/image/upload/v1765879856/arashi_g2_wzsfyh.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765886367/arashihava_yazxpe.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765886470/sak_mavitema_jgqcs4.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 53,
-  "brand": "Sakura",
-  "model": "Arashi SAC 12",
-  "name": "Sakura Arashi SAC 12 12.000 BTU A++ Inverter Split Klima",
-  "type": "Split Klima",
-  "capacity": {
-    "cooling_btu": 12000,
-    "heating_btu": 11941,
-    "cooling_kw": 3.5,
-    "heating_kw": 3.5
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.1,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter teknoloji ile düşük enerji tüketimi",
-    "Turbo modu ile hızlı soğutma",
-    "Uyku modu",
-    "Zamanlayıcı fonksiyonu",
-    "Otomatik dikey hava salınımı",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_low": 28,
-      "indoor_high": 40,
-      "outdoor": 53
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 46,
-      "heating_min": -15,
-      "heating_max": 30
-    },
-    "controls": {
-      "remote_control": true,
-      "auto_restart": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 780,
-      "height": 202,
-      "depth": 276
-    },
-    "outdoor_unit": {
-      "width": 700,
-      "height": 503,
-      "depth": 260
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Kurulum yetkili servis tarafından yapılmalıdır",
-    "Montaj dahil değildir"
-  ],
-  "images": [
-   "https://res.cloudinary.com/diyibvvua/image/upload/v1765879856/arashi_g2_wzsfyh.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765886367/arashihava_yazxpe.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765886470/sak_mavitema_jgqcs4.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-    
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 54,
-  "brand": "Sakura",
-  "model": "Arashi SAC 18",
-  "name": "Sakura Arashi SAC 18 18.000 BTU A++ Inverter Split Klima",
-  "type": "Split Klima",
-  "capacity": {
-    "cooling_btu": 18000,
-    "heating_btu": 17401,
-    "cooling_kw": 5.1,
-    "heating_kw": 5.1
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.1,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter teknoloji ile düşük enerji tüketimi",
-    "Turbo mod",
-    "Uyku modu",
-    "Zamanlayıcı",
-    "Otomatik dikey hava salınımı",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_low": 30,
-      "indoor_high": 42,
-      "outdoor": 55
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 30
-    },
-    "controls": {
-      "remote_control": true,
-      "auto_restart": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 850,
-      "height": 202,
-      "depth": 276
-    },
-    "outdoor_unit": {
-      "width": 835,
-      "height": 546,
-      "depth": 322
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Kurulum yetkili servis tarafından yapılmalıdır",
-    "Montaj dahil değildir"
-  ],
-  "images": [
-   "https://res.cloudinary.com/diyibvvua/image/upload/v1765879856/arashi_g2_wzsfyh.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765886367/arashihava_yazxpe.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765886470/sak_mavitema_jgqcs4.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-  ],
-  "stock_status": "Stokta var"
-},
-
-
-  {
-  "id": 55,
-  "brand": "Sakura",
-  "model": "Arashi SAC 24",
-  "name": "Sakura Arashi SAC 24 24.000 BTU A++ Inverter Split Klima",
-  "type": "Split Klima",
-  "capacity": {
-    "cooling_btu": 24000,
-    "heating_btu": 24000,
-    "cooling_kw": 7.0,
-    "heating_kw": 7.0
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.1,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma ve A+ ısıtma enerji verimliliği",
-    "Inverter teknoloji ile düşük enerji tüketimi",
-    "Turbo mod ile hızlı soğutma",
-    "Uyku modu",
-    "Zamanlayıcı",
-    "Otomatik dikey hava salınımı",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor_low": 33,
-      "indoor_high": 45,
-      "outdoor": 60
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 30
-    },
-    "controls": {
-      "remote_control": true,
-      "auto_restart": true
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    },
-    "outdoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Kurulum yetkili servis tarafından yapılmalıdır",
-    "Montaj dahil değildir"
-  ],
-  "images": [
-   "https://res.cloudinary.com/diyibvvua/image/upload/v1765879856/arashi_g2_wzsfyh.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765886367/arashihava_yazxpe.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765886470/sak_mavitema_jgqcs4.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 56,
-  "brand": "Sakura",
-  "model": "Sakura Kaset Tipi 24",
-  "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 24.000 BTU",
-  "type": "Kaset Tipi Klima",
-  "capacity": {
-    "cooling_btu": 24000,
-    "heating_btu": 27000,
-    "cooling_kw": 7.0,
-    "heating_kw": 7.9
-  },
-  "energy": {
-    "cooling_class": "A++",
-    "heating_class": "A+",
-    "seer": 6.3,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "A++ soğutma ve A+ ısıtma verimliliği",
-    "Inverter teknolojiyle düşük enerji tüketimi",
-    "4-yönlü hava üfleme",
-    "Turbo modu",
-    "Uyku modu"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor": 45,
-      "outdoor": 55
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 840,
-      "height": 245,
-      "depth": 840
-    },
-    "outdoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A++",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis tarafından kurulmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 57,
-  "brand": "Sakura",
-  "model": "Sakura Kaset Tipi 42",
-  "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 42.000 BTU",
-  "type": "Kaset Tipi Klima",
-  "capacity": {
-    "cooling_btu": 42000,
-    "heating_btu": 48000,
-    "cooling_kw": 12.3,
-    "heating_kw": 14.1
-  },
-  "energy": {
-    "cooling_class": "A+",
-    "heating_class": "A",
-    "seer": 6.1,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Geniş alanlar için güçlü 42.000 BTU kapasite",
-    "Düşük enerji tüketimi",
-    "4-yönlü hava dağılımı",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor": 57,
-      "outdoor": 65
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 840,
-      "height": 290,
-      "depth": 840
-    },
-    "outdoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A+",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis ile kurulmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-  ],
-  "stock_status": "Stokta var"
-},
-  {
-  "id": 58,
-  "brand": "Sakura",
-  "model": "Sakura Kaset Tipi 48 ",
-  "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 48.000 BTU Trifaze",
-  "type": "Kaset Tipi Klima",
-  "capacity": {
-    "cooling_btu": 48000,
-    "heating_btu": 54000,
-    "cooling_kw": 14.0,
-    "heating_kw": 15.8
-  },
-  "energy": {
-    "cooling_class": "A+",
-    "heating_class": "A",
-    "seer": 6.0,
-    "scop": 4.0
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Yüksek kapasiteli ticari klima",
-    "Trifaze inverter ile stabil performans",
-    "4-yönlü hava üfleme",
-    "Düşük enerji tüketimi"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor": 60,
-      "outdoor": 68
-    },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 910,
-      "height": 250,
-      "depth": 910
-    },
-    "outdoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A+",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis ile kurulmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg",
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
-  ],
-  "stock_status": "Stokta var"
-},
-  
-
-
-
-
-
-   {
-    "id": 59,
-    "brand": "Sakura",
-    "model": "SAC 18 MB",
-    "name": "Sakura SAC 18 MB 18000 BTU Mobil Klima",
-    "btus_cooling": 18000,
-    "power_cooling_watt": 1900,
-    "type": "Mobil Klima",
-    "recommended_room_m2": 26,
-    "climate_technology": "On/Off",
-    "color": "Beyaz",
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mobilklima_nteifk.webp",
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob5_lx4aum.webp"
-    ]
-  }
- 
-
- 
-  
 ]
