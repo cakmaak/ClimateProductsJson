@@ -92,6 +92,7 @@
         "model": "Climate CL2001U 26E",
         "name": "Bosch Climate CL2001U 26E 9.000 BTU A++ Inverter Klima (Montaj Dahil)",
         "type": "Split Klima",
+        "price": "₺ 29.950,00",
         "capacity": {
             "cooling_btu": 9000,
             "heating_btu": 10000,
@@ -175,6 +176,7 @@
         "model": "Climate CL2001U 53E",
         "name": "Bosch Climate CL2001U 53E 18.000 BTU A++ Inverter Klima (Montaj Dahil)",
         "type": "Split Klima",
+        "price": "₺ 44.950,00",
         "capacity": {
             "cooling_btu": 18000,
             "heating_btu": 19000,
@@ -262,6 +264,7 @@
         "model": "Climate CL2001U 70E",
         "name": "Bosch Climate CL2001U 70E 24.000 BTU A++ Inverter Split Klima (Montaj Dahil)",
         "type": "Split Klima",
+        "price": "₺ 59.950,00",
         "capacity": {
             "cooling_btu": 24000,
             "heating_btu": 26000,
@@ -348,6 +351,7 @@
         "model": "Climate 5000 L F",
         "name": "Bosch Climate 5000 L F Salon Tipi Inverter Klima",
         "type": "Salon Tipi Klima",
+        "price": "₺ 109.900,00",
         "capacity": {
             "cooling_btu": 48000,
             "heating_btu": 52000,
@@ -431,6 +435,7 @@
         "model": "Climate 5000i U/L 4C",
         "name": "Bosch Climate 5000i U/L 4C 48.000 BTU A++ Inverter Kaset Tipi Klima",
         "type": "Kaset Tipi Klima",
+        "price": "₺ 99.900,00",
         "capacity": {
             "cooling_btu": 48000,
             "heating_btu": 52000,
@@ -520,6 +525,7 @@
         "model": "Climate 5000i U/M 4C 18 E",
         "name": "Bosch Climate 5000i U/M 4C 18.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
         "type": "Kaset Tipi Klima",
+        "price": "₺ 69.900,00",
         "capacity": {
             "cooling_btu": 18000,
             "heating_btu": 18000,
@@ -593,6 +599,7 @@
         "model": "Climate 5000i U/L 4C 36 E",
         "name": "Bosch Climate 5000i U/L 4C 36.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
         "type": "Kaset Tipi Klima",
+        "price": "₺ 89.900,00",
         "capacity": {
             "cooling_btu": 36000,
             "heating_btu": 40900,
@@ -665,6 +672,7 @@
         "model": "Climate 5000i U/L 4C 42 E",
         "name": "Bosch Climate 5000i U/L 4C 42.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
         "type": "Kaset Tipi Klima",
+        "price": "₺ 94.900,00",
         "capacity": {
             "cooling_btu": 42000,
             "heating_btu": 48000,
@@ -737,6 +745,7 @@
         "model": "Climate 5000i D 36",
         "name": "Bosch Climate 5000i D 36.000 BTU A++ Inverter Gizli Tavan Tipi Split Klima",
         "type": "Gizli Tavan Tipi Klima",
+        "price": "₺ 99,900,00",
         "capacity": {
             "cooling_btu": 36000,
             "heating_btu": 38000,
@@ -812,6 +821,7 @@
         "model": "Climate 5000i U/L D 48E",
         "name": "Bosch Climate 5000i U/L D 48.000 BTU A++ Inverter Gizli Tavan Tipi Split Klima",
         "type": "Gizli Tavan Tipi Klima",
+        "price": "₺ 119.900,00",
         "capacity": {
             "cooling_btu": 48000,
             "heating_btu": 48000,
@@ -887,6 +897,7 @@
         "model": "Arashi SAC 28",
         "name": "Sakura Arashi SAC 28 28.000 BTU A++ Inverter Salon Tipi Klima",
         "type": "Salon Tipi Klima",
+        "price": "₺ 54.000,00",
         "capacity": {
             "cooling_btu": 28000,
             "heating_btu": 30000,
@@ -965,6 +976,7 @@
         "model": "Arashi SAC 42",
         "name": "Sakura Arashi SAC 42 42.000 BTU A+ Inverter Salon Tipi Split Klima",
         "type": "Salon Tipi Klima",
+        "price": "₺ 86.000,00",
         "capacity": {
             "cooling_btu": 42000,
             "heating_btu": 48000,
@@ -1042,6 +1054,7 @@
         "model": "Arashi SAC 9",
         "name": "Sakura Arashi SAC 9 9.000 BTU Split Klima",
         "type": "Split Klima",
+        "price": "₺ 21.800,00",
         "capacity": {
             "cooling_btu": 8530,
             "heating_btu": 8871,
@@ -1119,6 +1132,7 @@
         "model": "Arashi SAC 12",
         "name": "Sakura Arashi SAC 12 12.000 BTU A++ Inverter Split Klima",
         "type": "Split Klima",
+        "price": "₺ 22.900,00",
         "capacity": {
             "cooling_btu": 12000,
             "heating_btu": 11941,
@@ -1198,6 +1212,7 @@
         "model": "Arashi SAC 18",
         "name": "Sakura Arashi SAC 18 18.000 BTU A++ Inverter Split Klima",
         "type": "Split Klima",
+        "price": "₺ 34.400,00",
         "capacity": {
             "cooling_btu": 18000,
             "heating_btu": 17401,
@@ -1277,6 +1292,7 @@
         "model": "Arashi SAC 24",
         "name": "Sakura Arashi SAC 24 24.000 BTU A++ Inverter Split Klima",
         "type": "Split Klima",
+        "price": "₺ 45.900,00",
         "capacity": {
             "cooling_btu": 24000,
             "heating_btu": 24000,
@@ -1356,6 +1372,7 @@
         "model": "Sakura Kaset Tipi 24",
         "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 24.000 BTU",
         "type": "Kaset Tipi Klima",
+        "price": "₺ 63.000,00",
         "capacity": {
             "cooling_btu": 24000,
             "heating_btu": 27000,
@@ -1425,7 +1442,8 @@
         "brand": "Sakura",
         "model": "Sakura Kaset Tipi 42",
         "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 42.000 BTU",
-        "type": "Kaset Tipi Klima",
+        "type": "Kaset Tipi Klima"
+        "price": "₺ 86.000,00",
         "capacity": {
             "cooling_btu": 42000,
             "heating_btu": 48000,
@@ -1495,6 +1513,7 @@
         "model": "Sakura Kaset Tipi 48 ",
         "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 48.000 BTU Trifaze",
         "type": "Kaset Tipi Klima",
+        "price": "₺ 92.000,00",
         "capacity": {
             "cooling_btu": 48000,
             "heating_btu": 54000,
@@ -1566,6 +1585,7 @@
         "btus_cooling": 18000,
         "power_cooling_watt": 1900,
         "type": "Mobil Klima",
+        "price": "₺ 25.000,00",
         "recommended_room_m2": 26,
         "climate_technology": "On/Off",
         "color": "Beyaz",
