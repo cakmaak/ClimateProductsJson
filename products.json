@@ -1770,5 +1770,266 @@
         "images": [
             "https://res.cloudinary.com/diyibvvua/image/upload/v1766001364/4_l%C3%BC_m_beyaz_qy4pfn.png"
         ]
-    }
+    },
+      {
+    "id": 101,
+    "brand": "Bosch",
+    "model": "Monoblok 8kW Monofaze",
+    "name": "Bosch Monoblok Isı Pompası 8kW Monofaze",
+    "type": "Isı Pompası",
+    "price": "₺ 110.000,00",
+    "old_price": "₺ 127.000,00",
+    "capacity": {
+      "cooling_kw": 7.5,
+      "heating_kw": 8.4
+    },
+    "energy": {
+      "energy_class": null,
+      "seer": null,
+      "scop": null
+    },
+    "phase": "Monofaze",
+    "inverter": true,
+    "refrigerant": {
+      "type": null
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+      "Monoblok tasarım",
+      "Yerden ısıtma ve radyatör sistemleri ile uyumlu",
+      "Evsel kullanım için ideal",
+      "Yüksek enerji verimliliği"
+    ],
+    "images": [
+         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+    ],
+    "stock_status": "Stokta"
+  },
+  {
+    "id": 102,
+    "brand": "Bosch",
+    "model": "Monoblok 10kW Monofaze",
+    "name": "Bosch Monoblok Isı Pompası 10kW Monofaze",
+    "type": "Isı Pompası",
+    "price": "₺ 125.000,00",
+    "old_price": "₺ 144.000,00",
+    "capacity": {
+      "cooling_kw": 9.5,
+      "heating_kw": 10.0
+    },
+    "energy": {
+      "energy_class": null,
+      "seer": null,
+      "scop": null
+    },
+    "phase": "Monofaze",
+    "inverter": true,
+    "refrigerant": {
+      "type": null
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+      "Monoblok tasarım",
+      "Yüksek performans",
+      "Düşük enerji tüketimi",
+      "Sessiz çalışma"
+    ],
+    "images": [
+         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+    ],
+    "stock_status": "Stokta"
+  },
+  {
+    "id": 103,
+    "brand": "Bosch",
+    "model": "Monoblok 14kW Monofaze",
+    "name": "Bosch Monoblok Isı Pompası 14kW Monofaze",
+    "type": "Isı Pompası",
+    "price": "₺ 150.000,00",
+    "old_price": "₺ 173.000,00",
+    "capacity": {
+      "cooling_kw": 13.8,
+      "heating_kw": 14.5
+    },
+    "energy": {
+      "energy_class": null,
+      "seer": null,
+      "scop": null
+    },
+    "phase": "Monofaze",
+    "inverter": true,
+    "refrigerant": {
+      "type": null
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+      "Geniş alanlar için uygun",
+      "Monoblok dış ünite",
+      "Yüksek verim"
+    ],
+    "images": [
+         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+    ],
+    "stock_status": "Stokta"
+  },
+  {
+    "id": 104,
+    "brand": "Bosch",
+    "model": "Monoblok 16kW Monofaze",
+    "name": "Bosch Monoblok Isı Pompası 16kW Monofaze",
+    "type": "Isı Pompası",
+    "price": "₺ 165.000,00",
+    "old_price": "₺ 190.000,00",
+    "capacity": {
+      "cooling_kw": 16.0,
+      "heating_kw": 15.9
+    },
+    "energy": {
+      "energy_class": null,
+      "seer": null,
+      "scop": null
+    },
+    "phase": "Monofaze",
+    "inverter": true,
+    "refrigerant": {
+      "type": null
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+      "Yüksek kapasite",
+      "Ev ve villa çözümleri",
+      "Düşük işletme maliyeti"
+    ],
+    "images": [
+         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+    ],
+    "stock_status": "Stokta"
+  },
+  {
+    "id": 105,
+    "brand": "Bosch",
+    "model": "Monoblok 22kW Trifaze",
+    "name": "Bosch Monoblok Isı Pompası 22kW Trifaze",
+    "type": "Isı Pompası",
+    "price": "₺ 270.000,00",
+    "old_price": "₺ 310.900,00",
+    "capacity": {
+      "cooling_kw": 22.0,
+      "heating_kw": 22.0
+    },
+    "energy": {
+      "energy_class": null,
+      "seer": null,
+      "scop": null
+    },
+    "phase": "Trifaze",
+    "inverter": true,
+    "refrigerant": {
+      "type": null
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+      "Ticari kullanım",
+      "Trifaze besleme",
+      "Yüksek kapasite"
+    ],
+    "images": [
+         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+    ],
+    "stock_status": "Stokta"
+  },
+  {
+    "id": 106,
+    "brand": "Bosch",
+    "model": "Monoblok 26kW Trifaze",
+    "name": "Bosch Monoblok Isı Pompası 26kW Trifaze",
+    "type": "Isı Pompası",
+    "price": "₺ 280.000,00",
+    "old_price": "₺ 320.000,00",
+    "capacity": {
+      "cooling_kw": 26.0,
+      "heating_kw": 26.0
+    },
+    "energy": {
+      "energy_class": null,
+      "seer": null,
+      "scop": null
+    },
+    "phase": "Trifaze",
+    "inverter": true,
+    "refrigerant": {
+      "type": null
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+      "Endüstriyel çözümler",
+      "Yüksek performans",
+      "Uzun ömürlü kullanım"
+    ],
+    "images": [
+         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+    ],
+    "stock_status": "Stokta"
+  },
+  {
+    "id": 107,
+    "brand": "Bosch",
+    "model": "Monoblok 30kW Trifaze",
+    "name": "Bosch Monoblok Isı Pompası 30kW Trifaze",
+    "type": "Isı Pompası",
+    "price": "₺ 300.000,00",
+    "old_price": "₺ 350.000,00",
+    "capacity": {
+      "cooling_kw": 30.0,
+      "heating_kw": 30.1
+    },
+    "energy": {
+      "energy_class": null,
+      "seer": null,
+      "scop": null
+    },
+    "phase": "Trifaze",
+    "inverter": true,
+    "refrigerant": {
+      "type": null
+    },
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "highlight_features": [
+      "Büyük ticari alanlar",
+      "Yüksek kapasite",
+      "Profesyonel kullanım"
+    ],
+    "images": [
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+    ],
+    "stock_status": "Stokta"
+  }
 ]
