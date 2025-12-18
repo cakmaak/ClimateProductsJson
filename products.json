@@ -1595,7 +1595,7 @@
         ]
     },
     {
-        "id": "multi-2-18k-9k-12k",
+        "id": "60",
         "brand": "Bosch",
         "system_type": "Multi Split Inverter 2 iç ünite 9000 btu +12000 btu + 1 dış ünite 18000 btu",
         "outdoor_unit": {
@@ -1617,7 +1617,7 @@
         ]
     },
     {
-        "id": "multi-2-18k-9k-9k",
+        "id": "61",
         "brand": "Bosch",
         "system_type": "Multi Split Inverter 2 iç ünite 9000 btu+9000 btu + 1 dış ünite 18000 btu ",
         "outdoor_unit": {
@@ -1639,7 +1639,7 @@
         ]
     },
     {
-        "id": "multi-3-27k-9k-9k-9k",
+        "id": "62",
         "brand": "Bosch",
         "system_type": "Multi Split Inverter 3 adet 9000 btu  +  1 adet dış ünite 27000 btu",
         "outdoor_unit": {
@@ -1664,7 +1664,7 @@
         ]
     },
     {
-        "id": "multi-3-27k-18k-12k-9k",
+        "id": "63",
         "brand": "Bosch",
         "system_type": "Multi Split Inverter 1 adet 18000 btu +  1 adet 12000 btu + 1 adet 9000 btu  1 adet dış ünite 27000 btu",
         "outdoor_unit": {
@@ -1688,7 +1688,7 @@
         ]
     },
     {
-        "id": "multi-3-27k-12k-12k-9k",
+        "id": "64",
         "brand": "Bosch",
         "system_type": "Multi Split Inverter 2 adet 9000 btu + 1 adet 12000 btu + 1 adet dış ünite 27000 btu",
         "outdoor_unit": {
@@ -1713,7 +1713,7 @@
         ]
     },
     {
-        "id": "multi-4-36k-9k-9k-9k-9k",
+        "id": "65",
         "brand": "Bosch",
         "system_type": "Multi Split Inverter 4 adet 9000 btu + 1 adet dış ünite 36000 btu ",
         "outdoor_unit": {
@@ -1741,7 +1741,7 @@
         ]
     },
     {
-        "id": "multi-5-42k-9k-9k-9k-9k-9k",
+        "id": "66",
         "brand": "Bosch",
         "system_type": "Multi Split Inverter 5 adet 9000 btu +  1 adet dış ünite 42000 btu ",
         "outdoor_unit": {
