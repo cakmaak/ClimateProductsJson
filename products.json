@@ -1594,183 +1594,241 @@
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob5_lx4aum.webp"
         ]
     },
-    {
-        "id": "60",
-        "brand": "Bosch",
-        "system_type": "Multi Split Inverter 2 iç ünite 9000 btu +12000 btu + 1 dış ünite 18000 btu",
-        "outdoor_unit": {
-            "capacity_btu": 18000,
-            "max_indoor_units": 2
-        },
-        "indoor_units": [
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 12000
-            }
-        ],
-        "total_price": 53350,
-        "currency": "₺",
-        "images": [
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
-        ]
+  {
+    "id": 60,
+    "brand": "Bosch",
+    "model": "Multi Split Inverter 2x İç Ünite",
+    "name": "Bosch Multi Split Inverter 2 İç Ünite (9000 + 12000 BTU) 1 Dış Ünite 18000 BTU",
+    "type": "Multi Split Klima Sistemi",
+    "system_type": "Multi Split Inverter 2 iç ünite 9000 btu +12000 btu + 1 dış ünite 18000 btu",
+    "price": "₺ 53.350,00",
+    "total_price": 53350,
+    "currency": "₺",
+    "capacity": {
+      "outdoor_btu": 18000,
+      "indoor_units": [
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 12000 }
+      ]
     },
-    {
-        "id": "61",
-        "brand": "Bosch",
-        "system_type": "Multi Split Inverter 2 iç ünite 9000 btu+9000 btu + 1 dış ünite 18000 btu ",
-        "outdoor_unit": {
-            "capacity_btu": 18000,
-            "max_indoor_units": 2
-        },
-        "indoor_units": [
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            }
-        ],
-        "total_price": 52850,
-        "currency": "₺",
-        "images": [
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
-        ]
+    "inverter": true,
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "outdoor_unit": { "capacity_btu": 18000, "max_indoor_units": 2 },
+    "indoor_units": [
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 12000 }
+    ],
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
+    ],
+    "stock_status": "Stokta var"
+  },
+
+  {
+    "id": 61,
+    "brand": "Bosch",
+    "model": "Multi Split Inverter 2x9000",
+    "name": "Bosch Multi Split Inverter 2 İç Ünite (9000 + 9000 BTU) 1 Dış Ünite 18000 BTU",
+    "type": "Multi Split Klima Sistemi",
+    "system_type": "Multi Split Inverter 2 iç ünite 9000 btu+9000 btu + 1 dış ünite 18000 btu",
+    "price": "₺ 52.850,00",
+    "total_price": 52850,
+    "currency": "₺",
+    "capacity": {
+      "outdoor_btu": 18000,
+      "indoor_units": [
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 }
+      ]
     },
-    {
-        "id": "62",
-        "brand": "Bosch",
-        "system_type": "Multi Split Inverter 3 adet 9000 btu  +  1 adet dış ünite 27000 btu",
-        "outdoor_unit": {
-            "capacity_btu": 27000,
-            "max_indoor_units": 3
-        },
-        "indoor_units": [
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            }
-        ],
-        "total_price": 82300,
-        "currency": "₺",
-        "images": [
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
-        ]
+    "inverter": true,
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "outdoor_unit": { "capacity_btu": 18000, "max_indoor_units": 2 },
+    "indoor_units": [
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 }
+    ],
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
+    ],
+    "stock_status": "Stokta var"
+  },
+
+  {
+    "id": 62,
+    "brand": "Bosch",
+    "model": "Multi Split Inverter 3x9000",
+    "name": "Bosch Multi Split Inverter 3 İç Ünite (3x9000 BTU) 1 Dış Ünite 27000 BTU",
+    "type": "Multi Split Klima Sistemi",
+    "system_type": "Multi Split Inverter 3 adet 9000 btu + 1 adet dış ünite 27000 btu",
+    "price": "₺ 82.300,00",
+    "total_price": 82300,
+    "currency": "₺",
+    "capacity": {
+      "outdoor_btu": 27000,
+      "indoor_units": [
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 }
+      ]
     },
-    {
-        "id": "63",
-        "brand": "Bosch",
-        "system_type": "Multi Split Inverter 1 adet 18000 btu +  1 adet 12000 btu + 1 adet 9000 btu  1 adet dış ünite 27000 btu",
-        "outdoor_unit": {
-            "capacity_btu": 27000,
-            "max_indoor_units": 3
-        },
-        "indoor_units": [
-            {
-                "capacity_btu": 18000
-            },
-            {
-                "capacity_btu": 12000
-            },
-            {
-                "capacity_btu": 9000
-            }
-        ],
-        "total_price": 85250,
-        "images": [
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
-        ]
+    "inverter": true,
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "outdoor_unit": { "capacity_btu": 27000, "max_indoor_units": 3 },
+    "indoor_units": [
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 }
+    ],
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+    ],
+    "stock_status": "Stokta var"
+  },
+
+  {
+    "id": 63,
+    "brand": "Bosch",
+    "model": "Multi Split Inverter Karma 3lü",
+    "name": "Bosch Multi Split Inverter 3 İç Ünite (18000 + 12000 + 9000 BTU) 1 Dış Ünite 27000 BTU",
+    "type": "Multi Split Klima Sistemi",
+    "system_type": "Multi Split Inverter 1 adet 18000 btu + 1 adet 12000 btu + 1 adet 9000 btu 1 adet dış ünite 27000 btu",
+    "price": "₺ 85.250,00",
+    "total_price": 85250,
+    "currency": "₺",
+    "capacity": {
+      "outdoor_btu": 27000,
+      "indoor_units": [
+        { "cooling_btu": 18000 },
+        { "cooling_btu": 12000 },
+        { "cooling_btu": 9000 }
+      ]
     },
-    {
-        "id": "64",
-        "brand": "Bosch",
-        "system_type": "Multi Split Inverter 2 adet 9000 btu + 1 adet 12000 btu + 1 adet dış ünite 27000 btu",
-        "outdoor_unit": {
-            "capacity_btu": 27000,
-            "max_indoor_units": 3
-        },
-        "indoor_units": [
-            {
-                "capacity_btu": 12000
-            },
-            {
-                "capacity_btu": 12000
-            },
-            {
-                "capacity_btu": 9000
-            }
-        ],
-        "total_price": 83250,
-        "currency": "₺",
-        "images": [
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
-        ]
+    "inverter": true,
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "outdoor_unit": { "capacity_btu": 27000, "max_indoor_units": 3 },
+    "indoor_units": [
+      { "capacity_btu": 18000 },
+      { "capacity_btu": 12000 },
+      { "capacity_btu": 9000 }
+    ],
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+    ],
+    "stock_status": "Stokta var"
+  },
+
+  {
+    "id": 64,
+    "brand": "Bosch",
+    "model": "Multi Split Inverter 3lü 27K",
+    "name": "Bosch Multi Split Inverter 3 İç Ünite (12000 + 12000 + 9000 BTU) 1 Dış Ünite 27000 BTU",
+    "type": "Multi Split Klima Sistemi",
+    "system_type": "Multi Split Inverter 2 adet 12000 btu + 1 adet 9000 btu + 1 adet dış ünite 27000 btu",
+    "price": "₺ 83.250,00",
+    "total_price": 83250,
+    "currency": "₺",
+    "capacity": {
+      "outdoor_btu": 27000,
+      "indoor_units": [
+        { "cooling_btu": 12000 },
+        { "cooling_btu": 12000 },
+        { "cooling_btu": 9000 }
+      ]
     },
-    {
-        "id": "65",
-        "brand": "Bosch",
-        "system_type": "Multi Split Inverter 4 adet 9000 btu + 1 adet dış ünite 36000 btu ",
-        "outdoor_unit": {
-            "capacity_btu": 36000,
-            "max_indoor_units": 4
-        },
-        "indoor_units": [
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            }
-        ],
-        "total_price": 104250,
-        "currency": "₺",
-        "images": [
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001369/5_li_m_beyaz_dlj0lg.png"
-        ]
+    "inverter": true,
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "outdoor_unit": { "capacity_btu": 27000, "max_indoor_units": 3 },
+    "indoor_units": [
+      { "capacity_btu": 12000 },
+      { "capacity_btu": 12000 },
+      { "capacity_btu": 9000 }
+    ],
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+    ],
+    "stock_status": "Stokta var"
+  },
+
+  {
+    "id": 65,
+    "brand": "Bosch",
+    "model": "Multi Split Inverter 4x9000",
+    "name": "Bosch Multi Split Inverter 4 İç Ünite (4x9000 BTU) 1 Dış Ünite 36000 BTU",
+    "type": "Multi Split Klima Sistemi",
+    "system_type": "Multi Split Inverter 4 adet 9000 btu + 1 adet dış ünite 36000 btu",
+    "price": "₺ 104.250,00",
+    "total_price": 104250,
+    "currency": "₺",
+    "capacity": {
+      "outdoor_btu": 36000,
+      "indoor_units": [
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 }
+      ]
     },
-    {
-        "id": "66",
-        "brand": "Bosch",
-        "system_type": "Multi Split Inverter 5 adet 9000 btu +  1 adet dış ünite 42000 btu ",
-        "outdoor_unit": {
-            "capacity_btu": 42000,
-            "max_indoor_units": 5
-        },
-        "indoor_units": [
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            },
-            {
-                "capacity_btu": 9000
-            }
-        ],
-        "total_price": 117200,
-        "currency": "₺",
-        "images": [
-            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001364/4_l%C3%BC_m_beyaz_qy4pfn.png"
-        ]
+    "inverter": true,
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "outdoor_unit": { "capacity_btu": 36000, "max_indoor_units": 4 },
+    "indoor_units": [
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 }
+    ],
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001369/5_li_m_beyaz_dlj0lg.png"
+    ],
+    "stock_status": "Stokta var"
+  },
+
+  {
+    "id": 66,
+    "brand": "Bosch",
+    "model": "Multi Split Inverter 5x9000",
+    "name": "Bosch Multi Split Inverter 5 İç Ünite (5x9000 BTU) 1 Dış Ünite 42000 BTU",
+    "type": "Multi Split Klima Sistemi",
+    "system_type": "Multi Split Inverter 5 adet 9000 btu + 1 adet dış ünite 42000 btu",
+    "price": "₺ 117.200,00",
+    "total_price": 117200,
+    "currency": "₺",
+    "capacity": {
+      "outdoor_btu": 42000,
+      "indoor_units": [
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 },
+        { "cooling_btu": 9000 }
+      ]
     },
+    "inverter": true,
+    "color": "Beyaz",
+    "warranty_months": 24,
+    "outdoor_unit": { "capacity_btu": 42000, "max_indoor_units": 5 },
+    "indoor_units": [
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 },
+      { "capacity_btu": 9000 }
+    ],
+    "images": [
+      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001364/4_l%C3%BC_m_beyaz_qy4pfn.png"
+    ],
+    "stock_status": "Stokta var"
+  },
+
+
+
       {
     "id": 101,
     "brand": "Bosch",
