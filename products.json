@@ -5,7 +5,7 @@
         "model": "Climate CL2001U 35E",
         "name": "Bosch Climate CL2001U 35E 12.000 BTU A++ Inverter Klima (Montaj Dahil)",
         "type": "Split Klima",
-        "price": "₺ 31.950,00",
+        "price": "₺ 35.145,00",
         "capacity": {
             "cooling_btu": 12000,
             "heating_btu": 12000,
@@ -34,7 +34,8 @@
             "Otomatik hareketli dikey kanatlar",
             "Sessiz ve dengeli hava dağılımı",
             "Çevre dostu R32 soğutucu akışkan",
-            "Montaj dahil satış"
+            "Montaj dahil satış",
+            "4 metreye kadar borulama hakkı"
         ],
         "other_features": {
             "airflow": {
@@ -92,7 +93,7 @@
         "model": "Climate CL2001U 26E",
         "name": "Bosch Climate CL2001U 26E 9.000 BTU A++ Inverter Klima (Montaj Dahil)",
         "type": "Split Klima",
-        "price": "₺ 29.950,00",
+        "price": "₺ 32.900,00",
         "capacity": {
             "cooling_btu": 9000,
             "heating_btu": 10000,
@@ -123,10 +124,6 @@
             "R32 çevre dostu gaz"
         ],
         "other_features": {
-            "airflow": {
-                "indoor_airflow_m3h": null,
-                "outdoor_airflow_m3h": null
-            },
             "noise_levels_db": {
                 "indoor_low": 25,
                 "indoor_high": 38.5,
@@ -162,7 +159,8 @@
         },
         "notes": [
             "Kurulum işlemi yetkili servis tarafından yapılmalıdır",
-            "Yetkili servis dışı kurulumlarda garanti geçersizdir"
+            "Yetkili servis dışı kurulumlarda garanti geçersizdir",
+            "4 metreye kadar borulama hakkı"
         ],
         "images": [
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765789440/Cl2001_35E_o92knn.jpg",
@@ -176,7 +174,7 @@
         "model": "Climate CL2001U 53E",
         "name": "Bosch Climate CL2001U 53E 18.000 BTU A++ Inverter Klima (Montaj Dahil)",
         "type": "Split Klima",
-        "price": "₺ 44.950,00",
+        "price": "₺ 44.400,00",
         "capacity": {
             "cooling_btu": 18000,
             "heating_btu": 19000,
@@ -206,7 +204,8 @@
             "Sessiz çalışma modu",
             "Homojen hava dağılımı",
             "Çevre dostu R32 soğutucu akışkan",
-            "Montaj dahil satış"
+            "Montaj dahil satış",
+            "4 metreye kadar borulama hakkı"
         ],
         "other_features": {
             "airflow": {
@@ -264,7 +263,7 @@
         "model": "Climate CL2001U 70E",
         "name": "Bosch Climate CL2001U 70E 24.000 BTU A++ Inverter Split Klima (Montaj Dahil)",
         "type": "Split Klima",
-        "price": "₺ 59.950,00",
+        "price": "₺ 65.900,00",
         "capacity": {
             "cooling_btu": 24000,
             "heating_btu": 26000,
@@ -294,7 +293,8 @@
             "Otomatik hareketli dikey kanatlar",
             "Homojen hava dağılımı",
             "R32 çevre dostu soğutucu gaz",
-            "Montaj dahil satış"
+            "Montaj dahil satış",
+            "4 metreye kadar borulama hakkı"
         ],
         "other_features": {
             "airflow": {
@@ -346,12 +346,101 @@
         "stock_status": "Stokta var"
     },
     {
+        "id": 999,
+        "brand": "Carrier",
+        "model": "42QCC042D8SJ",
+        "name": "Carrier 42QCC042D8SJ 42.000 BTU A+ Inverter Kaset Tipi Klima",
+        "type": "Kaset Tipi Klima",
+        "price": "₺ 100.000,00",
+        "capacity": {
+            "cooling_btu": 42000,
+            "heating_btu": 46000,
+            "cooling_kw": 12.3,
+            "heating_kw": 13.5
+        },
+        "energy": {
+            "cooling_class": "A+",
+            "heating_class": "A+",
+            "seer": 5.7,
+            "scop": 3.9
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "charge_kg": 2.1,
+            "gwp": 675,
+            "co2_equivalent_ton": 1.418
+        },
+        "color": "Beyaz",
+        "warranty_months": 36,
+        "highlight_features": [
+            "360° dört yöne hava üfleme",
+            "Geniş alanlar için 42.000 BTU yüksek kapasite",
+            "A+ enerji verimliliği",
+            "Inverter kompresör ile düşük enerji tüketimi",
+            "Homojen hava dağılımı",
+            "Sessiz çalışma",
+            "Taze hava bağlantı desteği",
+            "Çevre dostu R32 soğutucu akışkan",
+            "Montaj dahildir",
+            "Borulama hakkı yoktur"
+        ],
+        "other_features": {
+            "airflow": {
+                "indoor_airflow_m3h": 1850
+            },
+            "noise_levels_db": {
+                "indoor_low": 42,
+                "indoor_high": 50,
+                "outdoor": 58
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            },
+            "design": {
+                "four_way_airflow": true,
+                "fresh_air_intake": true,
+                "condensate_pump": true,
+                "wired_controller_support": true
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 840,
+                "height": 288,
+                "depth": 840
+            },
+            "outdoor_unit": {
+                "width": 900,
+                "height": 1170,
+                "depth": 350
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A+",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Kaset tipi klimalar asma tavan gerektirir",
+            "Montaj işlemi yetkili servis tarafından yapılmalıdır",
+            "Garanti kapsamı için yetkili servis montajı zorunludur"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766226818/carrier1_mjazga.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766226831/carrier_uygauj.jpg"
+        ],
+        "stock_status": "Stokta var"
+    },
+    {
         "id": 43,
         "brand": "Bosch",
         "model": "Climate 5000 L F",
         "name": "Bosch Climate 5000 L F Salon Tipi Inverter Klima",
         "type": "Salon Tipi Klima",
-        "price": "₺ 109.900,00",
+        "price": "₺ 120.800,00",
         "capacity": {
             "cooling_btu": 48000,
             "heating_btu": 52000,
@@ -378,7 +467,9 @@
             "Uzun mesafeli güçlü hava üfleme",
             "Sessiz çalışma modu",
             "Ticari alanlar için ideal çözüm",
-            "Çevre dostu R32 soğutucu akışkan"
+            "Çevre dostu R32 soğutucu akışkan",
+            "Montaj dahildir",
+            "Borulama hakkı yoktur"
         ],
         "other_features": {
             "airflow": {
@@ -435,7 +526,7 @@
         "model": "Climate 5000i U/L 4C",
         "name": "Bosch Climate 5000i U/L 4C 48.000 BTU A++ Inverter Kaset Tipi Klima",
         "type": "Kaset Tipi Klima",
-        "price": "₺ 99.900,00",
+        "price": "₺ 109.800,00",
         "capacity": {
             "cooling_btu": 48000,
             "heating_btu": 52000,
@@ -466,7 +557,9 @@
             "Sessiz çalışma modu",
             "Taze hava bağlantı desteği",
             "Drenaj pompası standart",
-            "R32 çevre dostu soğutucu akışkan"
+            "R32 çevre dostu soğutucu akışkan",
+            "Montaj dahildir",
+            "Borulama hakkı yoktur"
         ],
         "other_features": {
             "airflow": {
@@ -512,7 +605,6 @@
             "Garanti kapsamı için yetkili servis montajı zorunludur"
         ],
         "images": [
-            
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
@@ -525,7 +617,7 @@
         "model": "Climate 5000i U/M 4C 18 E",
         "name": "Bosch Climate 5000i U/M 4C 18.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
         "type": "Kaset Tipi Klima",
-        "price": "₺ 69.900,00",
+        "price": "₺ 76.800,00",
         "capacity": {
             "cooling_btu": 18000,
             "heating_btu": 18000,
@@ -550,7 +642,9 @@
             "A++ soğutma ve A+ ısıtma enerji verimliliği",
             "Inverter teknolojisi ile düşük enerji tüketimi",
             "Turbo modu",
-            "Sessiz çalışma"
+            "Sessiz çalışma",
+            "Montaj dahildir",
+            "Borulama hakkı yoktur"
         ],
         "other_features": {
             "noise_levels_db": {
@@ -582,11 +676,9 @@
             "contains_f_gas": true
         },
         "notes": [
-            "Montaj dahil değildir",
             "Yetkili servis tarafından kurulmalıdır"
         ],
         "images": [
-            
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
@@ -599,7 +691,7 @@
         "model": "Climate 5000i U/L 4C 36 E",
         "name": "Bosch Climate 5000i U/L 4C 36.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
         "type": "Kaset Tipi Klima",
-        "price": "₺ 89.900,00",
+        "price": "₺ 98.800,00",
         "capacity": {
             "cooling_btu": 36000,
             "heating_btu": 40900,
@@ -623,7 +715,9 @@
             "4-yönlü hava akışı ile her köşeye etkin dağılım",
             "Inverter teknolojisi ile düşük enerji tüketimi",
             "Geniş alanlar için güçlü soğutma ve ısıtma",
-            "Turbo ve uyku modu"
+            "Turbo ve uyku modu",
+            "Montaj dahildir",
+            "Borulama hakkı yoktur"
         ],
         "other_features": {
             "noise_levels_db": {
@@ -655,11 +749,9 @@
             "contains_f_gas": true
         },
         "notes": [
-            "Montaj dahil değildir",
             "Yetkili servis tarafından kurulmalıdır"
         ],
         "images": [
-            
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
@@ -672,7 +764,7 @@
         "model": "Climate 5000i U/L 4C 42 E",
         "name": "Bosch Climate 5000i U/L 4C 42.000 BTU A++ Inverter 4-Yön Kaset Tipi Klima",
         "type": "Kaset Tipi Klima",
-        "price": "₺ 94.900,00",
+        "price": "₺ 104.300,00",
         "capacity": {
             "cooling_btu": 42000,
             "heating_btu": 48000,
@@ -728,11 +820,11 @@
             "contains_f_gas": true
         },
         "notes": [
-            "Montaj dahil değildir",
-            "Yetkili servis tarafından kurulmalıdır"
+            "Montaj dahildir",
+            "Yetkili servis tarafından kurulmalıdır",
+            "Borulama hakkı bulunmamaktadır"
         ],
         "images": [
-            
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765785402/kasett1_ck7lfs.webp",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765785291/o548890v389_Climate_5000_L_v42_lyji6x.png",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765794586/2li_d%C4%B1%C5%9F_%C3%BCni_vnhfhs.png"
@@ -745,7 +837,7 @@
         "model": "Climate 5000i D 36",
         "name": "Bosch Climate 5000i D 36.000 BTU A++ Inverter Gizli Tavan Tipi Split Klima",
         "type": "Gizli Tavan Tipi Klima",
-        "price": "₺ 99.900,00",
+        "price": "₺ 109.800,00",
         "capacity": {
             "cooling_btu": 36000,
             "heating_btu": 38000,
@@ -772,7 +864,9 @@
             "Inverter teknolojisi",
             "Düşük ses seviyesi",
             "Geniş hava kanalı bağlantı imkanı",
-            "Merkezi kontrol uyumluluğu"
+            "Merkezi kontrol uyumluluğu",
+            "Montaj dahildir",
+            "Borulama hakkı bulunmamaktadır"
         ],
         "other_features": {
             "airflow": {
@@ -807,7 +901,6 @@
             "contains_f_gas": true
         },
         "notes": [
-            "Montaj dahil değildir",
             "Yetkili servis tarafından kurulum yapılmalıdır"
         ],
         "images": [
@@ -821,7 +914,7 @@
         "model": "Climate 5000i U/L D 48E",
         "name": "Bosch Climate 5000i U/L D 48.000 BTU A++ Inverter Gizli Tavan Tipi Split Klima",
         "type": "Gizli Tavan Tipi Klima",
-        "price": "₺ 119.900,00",
+        "price": "₺ 130.000,00",
         "capacity": {
             "cooling_btu": 48000,
             "heating_btu": 48000,
@@ -883,7 +976,8 @@
             "contains_f_gas": true
         },
         "notes": [
-            "Montaj dahil değildir",
+            "Montaj dahildir",
+            "Borulama hakkı bulunmamaktadır",
             "Yetkili servis tarafından kurulum yapılmalıdır"
         ],
         "images": [
@@ -897,7 +991,7 @@
         "model": "Arashi SAC 28",
         "name": "Sakura Arashi SAC 28 28.000 BTU A++ Inverter Salon Tipi Klima",
         "type": "Salon Tipi Klima",
-        "price": "₺ 54.000,00",
+        "price": "₺ 59.400,00",
         "capacity": {
             "cooling_btu": 28000,
             "heating_btu": 30000,
@@ -964,6 +1058,8 @@
             "Kurulum yetkili servis tarafından yapılmalıdır"
         ],
         "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766226785/sacurasaoooon4_tqszg3.jpg",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766226745/sacurasaooon0_pgfahi.jpg",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765879290/sacura_salontip1_sru0wu.jpg",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765879324/sacura_salontip2_tjqwie.jpg",
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765879346/sakurad%C4%B1%C5%9F%C3%BCnisalon_gpzpoe.jpg"
@@ -976,7 +1072,7 @@
         "model": "Arashi SAC 42",
         "name": "Sakura Arashi SAC 42 42.000 BTU A+ Inverter Salon Tipi Split Klima",
         "type": "Salon Tipi Klima",
-        "price": "₺ 86.000,00",
+        "price": "₺ 94.500,00",
         "capacity": {
             "cooling_btu": 42000,
             "heating_btu": 48000,
@@ -1054,7 +1150,7 @@
         "model": "Arashi SAC 9",
         "name": "Sakura Arashi SAC 9 9.000 BTU Split Klima",
         "type": "Split Klima",
-        "price": "₺ 21.800,00",
+        "price": "₺ 23.900,00",
         "capacity": {
             "cooling_btu": 8530,
             "heating_btu": 8871,
@@ -1132,7 +1228,7 @@
         "model": "Arashi SAC 12",
         "name": "Sakura Arashi SAC 12 12.000 BTU A++ Inverter Split Klima",
         "type": "Split Klima",
-        "price": "₺ 22.900,00",
+        "price": "₺ 25.000,00",
         "capacity": {
             "cooling_btu": 12000,
             "heating_btu": 11941,
@@ -1212,7 +1308,7 @@
         "model": "Arashi SAC 18",
         "name": "Sakura Arashi SAC 18 18.000 BTU A++ Inverter Split Klima",
         "type": "Split Klima",
-        "price": "₺ 34.400,00",
+        "price": "₺ 37.800,00",
         "capacity": {
             "cooling_btu": 18000,
             "heating_btu": 17401,
@@ -1292,7 +1388,7 @@
         "model": "Arashi SAC 24",
         "name": "Sakura Arashi SAC 24 24.000 BTU A++ Inverter Split Klima",
         "type": "Split Klima",
-        "price": "₺ 45.900,00",
+        "price": "₺ 50.500,00",
         "capacity": {
             "cooling_btu": 24000,
             "heating_btu": 24000,
@@ -1372,7 +1468,7 @@
         "model": "Sakura Kaset Tipi 24",
         "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 24.000 BTU",
         "type": "Kaset Tipi Klima",
-        "price": "₺ 63.000,00",
+        "price": "₺ 69.300,00",
         "capacity": {
             "cooling_btu": 24000,
             "heating_btu": 27000,
@@ -1437,83 +1533,82 @@
         ],
         "stock_status": "Stokta var"
     },
-    
-{
-  "id": 57,
-  "brand": "Sakura",
-  "model": "Sakura Kaset Tipi 42",
-  "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 42.000 BTU",
-  "type": "Kaset Tipi Klima",
-  "price": "₺ 86.000,00",
-  "capacity": {
-    "cooling_btu": 42000,
-    "heating_btu": 48000,
-    "cooling_kw": 12.3,
-    "heating_kw": 14.1
-  },
-  "energy": {
-    "cooling_class": "A+",
-    "heating_class": "A",
-    "seer": 6.1,
-    "scop": 4
-  },
-  "inverter": true,
-  "refrigerant": {
-    "type": "R32",
-    "gwp": 675
-  },
-  "color": "Beyaz",
-  "warranty_months": 24,
-  "highlight_features": [
-    "Geniş alanlar için güçlü 42.000 BTU kapasite",
-    "Düşük enerji tüketimi",
-    "4-yönlü hava dağılımı",
-    "Sessiz çalışma"
-  ],
-  "other_features": {
-    "noise_levels_db": {
-      "indoor": 57,
-      "outdoor": 65
+    {
+        "id": 57,
+        "brand": "Sakura",
+        "model": "Sakura Kaset Tipi 42",
+        "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 42.000 BTU",
+        "type": "Kaset Tipi Klima",
+        "price": "₺ 94.600,00",
+        "capacity": {
+            "cooling_btu": 42000,
+            "heating_btu": 48000,
+            "cooling_kw": 12.3,
+            "heating_kw": 14.1
+        },
+        "energy": {
+            "cooling_class": "A+",
+            "heating_class": "A",
+            "seer": 6.1,
+            "scop": 4
+        },
+        "inverter": true,
+        "refrigerant": {
+            "type": "R32",
+            "gwp": 675
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Geniş alanlar için güçlü 42.000 BTU kapasite",
+            "Düşük enerji tüketimi",
+            "4-yönlü hava dağılımı",
+            "Sessiz çalışma"
+        ],
+        "other_features": {
+            "noise_levels_db": {
+                "indoor": 57,
+                "outdoor": 65
+            },
+            "operating_temperature": {
+                "cooling_min": -15,
+                "cooling_max": 50,
+                "heating_min": -15,
+                "heating_max": 24
+            }
+        },
+        "dimensions_mm": {
+            "indoor_unit": {
+                "width": 910,
+                "height": 250,
+                "depth": 910
+            },
+            "outdoor_unit": {
+                "width": null,
+                "height": null,
+                "depth": null
+            }
+        },
+        "certifications": {
+            "erp_energy_label": "A+",
+            "contains_f_gas": true
+        },
+        "notes": [
+            "Montaj dahil değildir",
+            "Yetkili servis ile kurulmalıdır"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg"
+        ],
+        "stock_status": "Stokta var"
     },
-    "operating_temperature": {
-      "cooling_min": -15,
-      "cooling_max": 50,
-      "heating_min": -15,
-      "heating_max": 24
-    }
-  },
-  "dimensions_mm": {
-    "indoor_unit": {
-      "width": 910,
-      "height": 250,
-      "depth": 910
-    },
-    "outdoor_unit": {
-      "width": null,
-      "height": null,
-      "depth": null
-    }
-  },
-  "certifications": {
-    "erp_energy_label": "A+",
-    "contains_f_gas": true
-  },
-  "notes": [
-    "Montaj dahil değildir",
-    "Yetkili servis ile kurulmalıdır"
-  ],
-  "images": [
-    "https://res.cloudinary.com/diyibvvua/image/upload/v1765884345/tavansacura1_tncol8.jpg"
-  ],
-  "stock_status": "Stokta var"
-},
     {
         "id": 58,
         "brand": "Sakura",
         "model": "Sakura Kaset Tipi 48 ",
         "name": "Sakura Inverter 4-Yön Kaset Tipi Split Klima 48.000 BTU Trifaze",
         "type": "Kaset Tipi Klima",
-        "price": "₺ 92.000,00",
+        "price": "₺ 101.000,00",
         "capacity": {
             "cooling_btu": 48000,
             "heating_btu": 54000,
@@ -1585,7 +1680,7 @@
         "btus_cooling": 18000,
         "power_cooling_watt": 1900,
         "type": "Mobil Klima",
-        "price": "₺ 25.000,00",
+        "price": "₺ 27.500,00",
         "recommended_room_m2": 26,
         "climate_technology": "On/Off",
         "color": "Beyaz",
@@ -1594,500 +1689,600 @@
             "https://res.cloudinary.com/diyibvvua/image/upload/v1765621328/mob5_lx4aum.webp"
         ]
     },
-  {
-    "id": 60,
-    "brand": "Bosch",
-    "model": "Multi Split Inverter 2x İç Ünite",
-    "name": "Bosch Multi Split Inverter 2 İç Ünite (9000 + 12000 BTU) 1 Dış Ünite 18000 BTU",
-    "type": "Multi Split Klima Sistemi",
-    "system_type": "Multi Split Inverter 2 iç ünite 9000 btu +12000 btu + 1 dış ünite 18000 btu",
-    "price": "₺ 53.350,00",
-    "total_price": 53350,
-    "currency": "₺",
-    "capacity": {
-      "outdoor_btu": 18000,
-      "indoor_units": [
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 12000 }
-      ]
+    {
+        "id": 60,
+        "brand": "Bosch",
+        "model": "Multi Split Inverter 2x İç Ünite",
+        "name": "Bosch Multi Split Inverter 2 İç Ünite (9000 + 12000 BTU) 1 Dış Ünite 18000 BTU",
+        "type": "Multi Split Klima Sistemi",
+        "system_type": "Multi Split Inverter 2 iç ünite 9000 btu +12000 btu + 1 dış ünite 18000 btu",
+        "price": "₺ 58.500,00",
+        "total_price": 58500,
+        "currency": "₺",
+        "capacity": {
+            "outdoor_btu": 18000,
+            "indoor_units": [
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 12000
+                }
+            ]
+        },
+        "inverter": true,
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "outdoor_unit": {
+            "capacity_btu": 18000,
+            "max_indoor_units": 2
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 12000
+            }
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "inverter": true,
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "outdoor_unit": { "capacity_btu": 18000, "max_indoor_units": 2 },
-    "indoor_units": [
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 12000 }
-    ],
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
-    ],
-    "stock_status": "Stokta var"
-  },
-
-  {
-    "id": 61,
-    "brand": "Bosch",
-    "model": "Multi Split Inverter 2x9000",
-    "name": "Bosch Multi Split Inverter 2 İç Ünite (9000 + 9000 BTU) 1 Dış Ünite 18000 BTU",
-    "type": "Multi Split Klima Sistemi",
-    "system_type": "Multi Split Inverter 2 iç ünite 9000 btu+9000 btu + 1 dış ünite 18000 btu",
-    "price": "₺ 52.850,00",
-    "total_price": 52850,
-    "currency": "₺",
-    "capacity": {
-      "outdoor_btu": 18000,
-      "indoor_units": [
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 }
-      ]
+    {
+        "id": 61,
+        "brand": "Bosch",
+        "model": "Multi Split Inverter 2x9000",
+        "name": "Bosch Multi Split Inverter 2 İç Ünite (9000 + 9000 BTU) 1 Dış Ünite 18000 BTU",
+        "type": "Multi Split Klima Sistemi",
+        "system_type": "Multi Split Inverter 2 iç ünite 9000 btu+9000 btu + 1 dış ünite 18000 btu(Montaj dahil)",
+        "price": "₺ 58.000,00",
+        "total_price": 58000,
+        "currency": "₺",
+        "capacity": {
+            "outdoor_btu": 18000,
+            "indoor_units": [
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                }
+            ]
+        },
+        "inverter": true,
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "outdoor_unit": {
+            "capacity_btu": 18000,
+            "max_indoor_units": 2
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "inverter": true,
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "outdoor_unit": { "capacity_btu": 18000, "max_indoor_units": 2 },
-    "indoor_units": [
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 }
-    ],
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001353/2li_m_beyaz_rpygfl.png"
-    ],
-    "stock_status": "Stokta var"
-  },
-
-  {
-    "id": 62,
-    "brand": "Bosch",
-    "model": "Multi Split Inverter 3x9000",
-    "name": "Bosch Multi Split Inverter 3 İç Ünite (3x9000 BTU) 1 Dış Ünite 27000 BTU",
-    "type": "Multi Split Klima Sistemi",
-    "system_type": "Multi Split Inverter 3 adet 9000 btu + 1 adet dış ünite 27000 btu",
-    "price": "₺ 82.300,00",
-    "total_price": 82300,
-    "currency": "₺",
-    "capacity": {
-      "outdoor_btu": 27000,
-      "indoor_units": [
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 }
-      ]
+    {
+        "id": 62,
+        "brand": "Bosch",
+        "model": "Multi Split Inverter 3x9000",
+        "name": "Bosch Multi Split Inverter 3 İç Ünite (3x9000 BTU) 1 Dış Ünite 27000 BTU (Montaj dahil)",
+        "type": "Multi Split Klima Sistemi",
+        "system_type": "Multi Split Inverter 3 adet 9000 btu + 1 adet dış ünite 27000 btu",
+        "price": "₺ 90.500,00",
+        "total_price": 90500,
+        "currency": "₺",
+        "capacity": {
+            "outdoor_btu": 27000,
+            "indoor_units": [
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                }
+            ]
+        },
+        "inverter": true,
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "outdoor_unit": {
+            "capacity_btu": 27000,
+            "max_indoor_units": 3
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "inverter": true,
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "outdoor_unit": { "capacity_btu": 27000, "max_indoor_units": 3 },
-    "indoor_units": [
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 }
-    ],
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
-    ],
-    "stock_status": "Stokta var"
-  },
-
-  {
-    "id": 63,
-    "brand": "Bosch",
-    "model": "Multi Split Inverter Karma 3lü",
-    "name": "Bosch Multi Split Inverter 3 İç Ünite (18000 + 12000 + 9000 BTU) 1 Dış Ünite 27000 BTU",
-    "type": "Multi Split Klima Sistemi",
-    "system_type": "Multi Split Inverter 1 adet 18000 btu + 1 adet 12000 btu + 1 adet 9000 btu 1 adet dış ünite 27000 btu",
-    "price": "₺ 85.250,00",
-    "total_price": 85250,
-    "currency": "₺",
-    "capacity": {
-      "outdoor_btu": 27000,
-      "indoor_units": [
-        { "cooling_btu": 18000 },
-        { "cooling_btu": 12000 },
-        { "cooling_btu": 9000 }
-      ]
+    {
+        "id": 63,
+        "brand": "Bosch",
+        "model": "Multi Split Inverter Karma 3lü",
+        "name": "Bosch Multi Split Inverter 3 İç Ünite (18000 + 12000 + 9000 BTU) 1 Dış Ünite 27000 BTU (Montaj dahil)",
+        "type": "Multi Split Klima Sistemi",
+        "system_type": "Multi Split Inverter 1 adet 18000 btu + 1 adet 12000 btu + 1 adet 9000 btu 1 adet dış ünite 27000 btu",
+        "price": "₺ 94.000,00",
+        "total_price": 94000,
+        "currency": "₺",
+        "capacity": {
+            "outdoor_btu": 27000,
+            "indoor_units": [
+                {
+                    "cooling_btu": 18000
+                },
+                {
+                    "cooling_btu": 12000
+                },
+                {
+                    "cooling_btu": 9000
+                }
+            ]
+        },
+        "inverter": true,
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "outdoor_unit": {
+            "capacity_btu": 27000,
+            "max_indoor_units": 3
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 18000
+            },
+            {
+                "capacity_btu": 12000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "inverter": true,
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "outdoor_unit": { "capacity_btu": 27000, "max_indoor_units": 3 },
-    "indoor_units": [
-      { "capacity_btu": 18000 },
-      { "capacity_btu": 12000 },
-      { "capacity_btu": 9000 }
-    ],
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
-    ],
-    "stock_status": "Stokta var"
-  },
-
-  {
-    "id": 64,
-    "brand": "Bosch",
-    "model": "Multi Split Inverter 3lü 27K",
-    "name": "Bosch Multi Split Inverter 3 İç Ünite (12000 + 12000 + 9000 BTU) 1 Dış Ünite 27000 BTU",
-    "type": "Multi Split Klima Sistemi",
-    "system_type": "Multi Split Inverter 2 adet 12000 btu + 1 adet 9000 btu + 1 adet dış ünite 27000 btu",
-    "price": "₺ 83.250,00",
-    "total_price": 83250,
-    "currency": "₺",
-    "capacity": {
-      "outdoor_btu": 27000,
-      "indoor_units": [
-        { "cooling_btu": 12000 },
-        { "cooling_btu": 12000 },
-        { "cooling_btu": 9000 }
-      ]
+    {
+        "id": 64,
+        "brand": "Bosch",
+        "model": "Multi Split Inverter 3lü 27K",
+        "name": "Bosch Multi Split Inverter 3 İç Ünite (12000 + 12000 + 9000 BTU) 1 Dış Ünite 27000 BTU (Montaj dahil)",
+        "type": "Multi Split Klima Sistemi",
+        "system_type": "Multi Split Inverter 2 adet 12000 btu + 1 adet 9000 btu + 1 adet dış ünite 27000 btu",
+        "price": "₺ 91.500,00",
+        "total_price": 91500,
+        "currency": "₺",
+        "capacity": {
+            "outdoor_btu": 27000,
+            "indoor_units": [
+                {
+                    "cooling_btu": 12000
+                },
+                {
+                    "cooling_btu": 12000
+                },
+                {
+                    "cooling_btu": 9000
+                }
+            ]
+        },
+        "inverter": true,
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "outdoor_unit": {
+            "capacity_btu": 27000,
+            "max_indoor_units": 3
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 12000
+            },
+            {
+                "capacity_btu": 12000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "inverter": true,
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "outdoor_unit": { "capacity_btu": 27000, "max_indoor_units": 3 },
-    "indoor_units": [
-      { "capacity_btu": 12000 },
-      { "capacity_btu": 12000 },
-      { "capacity_btu": 9000 }
-    ],
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001358/3_l%C3%BC_m_beyaz_zmapux.png"
-    ],
-    "stock_status": "Stokta var"
-  },
-
-  {
-    "id": 65,
-    "brand": "Bosch",
-    "model": "Multi Split Inverter 4x9000",
-    "name": "Bosch Multi Split Inverter 4 İç Ünite (4x9000 BTU) 1 Dış Ünite 36000 BTU",
-    "type": "Multi Split Klima Sistemi",
-    "system_type": "Multi Split Inverter 4 adet 9000 btu + 1 adet dış ünite 36000 btu",
-    "price": "₺ 104.250,00",
-    "total_price": 104250,
-    "currency": "₺",
-    "capacity": {
-      "outdoor_btu": 36000,
-      "indoor_units": [
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 }
-      ]
+    {
+        "id": 65,
+        "brand": "Bosch",
+        "model": "Multi Split Inverter 4x9000",
+        "name": "Bosch Multi Split Inverter 4 İç Ünite (4x9000 BTU) 1 Dış Ünite 36000 BTU (Montaj dahil)",
+        "type": "Multi Split Klima Sistemi",
+        "system_type": "Multi Split Inverter 4 adet 9000 btu + 1 adet dış ünite 36000 btu",
+        "price": "₺ 114.000,00",
+        "total_price": 114,
+        "currency": "₺",
+        "capacity": {
+            "outdoor_btu": 36000,
+            "indoor_units": [
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                }
+            ]
+        },
+        "inverter": true,
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "outdoor_unit": {
+            "capacity_btu": 36000,
+            "max_indoor_units": 4
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001369/5_li_m_beyaz_dlj0lg.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "inverter": true,
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "outdoor_unit": { "capacity_btu": 36000, "max_indoor_units": 4 },
-    "indoor_units": [
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 }
-    ],
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001369/5_li_m_beyaz_dlj0lg.png"
-    ],
-    "stock_status": "Stokta var"
-  },
-
-  {
-    "id": 66,
-    "brand": "Bosch",
-    "model": "Multi Split Inverter 5x9000",
-    "name": "Bosch Multi Split Inverter 5 İç Ünite (5x9000 BTU) 1 Dış Ünite 42000 BTU",
-    "type": "Multi Split Klima Sistemi",
-    "system_type": "Multi Split Inverter 5 adet 9000 btu + 1 adet dış ünite 42000 btu",
-    "price": "₺ 117.200,00",
-    "total_price": 117200,
-    "currency": "₺",
-    "capacity": {
-      "outdoor_btu": 42000,
-      "indoor_units": [
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 },
-        { "cooling_btu": 9000 }
-      ]
+    {
+        "id": 66,
+        "brand": "Bosch",
+        "model": "Multi Split Inverter 5x9000",
+        "name": "Bosch Multi Split Inverter 5 İç Ünite (5x9000 BTU) 1 Dış Ünite 42000 BTU (Montaj dahil)",
+        "type": "Multi Split Klima Sistemi",
+        "system_type": "Multi Split Inverter 5 adet 9000 btu + 1 adet dış ünite 42000 btu",
+        "price": "₺ 129.000,00",
+        "total_price": 129000,
+        "currency": "₺",
+        "capacity": {
+            "outdoor_btu": 42000,
+            "indoor_units": [
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                },
+                {
+                    "cooling_btu": 9000
+                }
+            ]
+        },
+        "inverter": true,
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "outdoor_unit": {
+            "capacity_btu": 42000,
+            "max_indoor_units": 5
+        },
+        "indoor_units": [
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            },
+            {
+                "capacity_btu": 9000
+            }
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766001364/4_l%C3%BC_m_beyaz_qy4pfn.png"
+        ],
+        "stock_status": "Stokta var"
     },
-    "inverter": true,
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "outdoor_unit": { "capacity_btu": 42000, "max_indoor_units": 5 },
-    "indoor_units": [
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 },
-      { "capacity_btu": 9000 }
-    ],
-    "images": [
-      "https://res.cloudinary.com/diyibvvua/image/upload/v1766001364/4_l%C3%BC_m_beyaz_qy4pfn.png"
-    ],
-    "stock_status": "Stokta var"
-  },
-
-
-
-      {
-    "id": 101,
-    "brand": "Bosch",
-    "model": "Monoblok 8kW Monofaze",
-    "name": "Bosch Monoblok Isı Pompası 8kW Monofaze",
-    "type": "Isı Pompası",
-    "price": "₺ 110.000,00",
-    "old_price": "₺ 127.000,00",
-    "capacity": {
-      "cooling_kw": 7.5,
-      "heating_kw": 8.4
+    {
+        "id": 101,
+        "brand": "Bosch",
+        "model": "Monoblok 8kW Monofaze",
+        "name": "Bosch Monoblok Isı Pompası 8kW Monofaze",
+        "type": "Isı Pompası",
+        "price": "₺ 110.000,00",
+        "old_price": "₺ 127.000,00",
+        "capacity": {
+            "cooling_kw": 7.5,
+            "heating_kw": 8.4
+        },
+        "energy": {
+            "energy_class": "A++",
+            "seer": null,
+            "scop": null
+        },
+        "phase": "Monofaze",
+        "inverter": true,
+        "refrigerant": {
+            "type": null
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Monoblok tasarım",
+            "Yerden ısıtma ve radyatör sistemleri ile uyumlu",
+            "Evsel kullanım için ideal",
+            "Yüksek enerji verimliliği"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+        ],
+        "stock_status": "Stokta"
     },
-    "energy": {
-      "energy_class": null,
-      "seer": null,
-      "scop": null
+    {
+        "id": 102,
+        "brand": "Bosch",
+        "model": "Monoblok 10kW Monofaze",
+        "name": "Bosch Monoblok Isı Pompası 10kW Monofaze",
+        "type": "Isı Pompası",
+        "price": "₺ 125.000,00",
+        "old_price": "₺ 144.000,00",
+        "capacity": {
+            "cooling_kw": 9.5,
+            "heating_kw": 10
+        },
+        "energy": {
+            "energy_class": null,
+            "seer": null,
+            "scop": null
+        },
+        "phase": "Monofaze",
+        "inverter": true,
+        "refrigerant": {
+            "type": null
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Monoblok tasarım",
+            "Yüksek performans",
+            "Düşük enerji tüketimi",
+            "Sessiz çalışma"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+        ],
+        "stock_status": "Stokta"
     },
-    "phase": "Monofaze",
-    "inverter": true,
-    "refrigerant": {
-      "type": null
+    {
+        "id": 103,
+        "brand": "Bosch",
+        "model": "Monoblok 14kW Monofaze",
+        "name": "Bosch Monoblok Isı Pompası 14kW Monofaze",
+        "type": "Isı Pompası",
+        "price": "₺ 150.000,00",
+        "old_price": "₺ 173.000,00",
+        "capacity": {
+            "cooling_kw": 13.8,
+            "heating_kw": 14.5
+        },
+        "energy": {
+            "energy_class": null,
+            "seer": null,
+            "scop": null
+        },
+        "phase": "Monofaze",
+        "inverter": true,
+        "refrigerant": {
+            "type": null
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Geniş alanlar için uygun",
+            "Monoblok dış ünite",
+            "Yüksek verim"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+        ],
+        "stock_status": "Stokta"
     },
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "highlight_features": [
-      "Monoblok tasarım",
-      "Yerden ısıtma ve radyatör sistemleri ile uyumlu",
-      "Evsel kullanım için ideal",
-      "Yüksek enerji verimliliği"
-    ],
-    "images": [
-         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
-    ],
-    "stock_status": "Stokta"
-  },
-  {
-    "id": 102,
-    "brand": "Bosch",
-    "model": "Monoblok 10kW Monofaze",
-    "name": "Bosch Monoblok Isı Pompası 10kW Monofaze",
-    "type": "Isı Pompası",
-    "price": "₺ 125.000,00",
-    "old_price": "₺ 144.000,00",
-    "capacity": {
-      "cooling_kw": 9.5,
-      "heating_kw": 10.0
+    {
+        "id": 104,
+        "brand": "Bosch",
+        "model": "Monoblok 16kW Monofaze",
+        "name": "Bosch Monoblok Isı Pompası 16kW Monofaze",
+        "type": "Isı Pompası",
+        "price": "₺ 165.000,00",
+        "old_price": "₺ 190.000,00",
+        "capacity": {
+            "cooling_kw": 16,
+            "heating_kw": 15.9
+        },
+        "energy": {
+            "energy_class": null,
+            "seer": null,
+            "scop": null
+        },
+        "phase": "Monofaze",
+        "inverter": true,
+        "refrigerant": {
+            "type": null
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Yüksek kapasite",
+            "Ev ve villa çözümleri",
+            "Düşük işletme maliyeti"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+        ],
+        "stock_status": "Stokta"
     },
-    "energy": {
-      "energy_class": null,
-      "seer": null,
-      "scop": null
+    {
+        "id": 105,
+        "brand": "Bosch",
+        "model": "Monoblok 22kW Trifaze",
+        "name": "Bosch Monoblok Isı Pompası 22kW Trifaze",
+        "type": "Isı Pompası",
+        "price": "₺ 270.000,00",
+        "old_price": "₺ 310.900,00",
+        "capacity": {
+            "cooling_kw": 22,
+            "heating_kw": 22
+        },
+        "energy": {
+            "energy_class": "A++",
+            "seer": null,
+            "scop": null
+        },
+        "phase": "Trifaze",
+        "inverter": true,
+        "refrigerant": {
+            "type": null
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Ticari kullanım",
+            "Trifaze besleme",
+            "Yüksek kapasite"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+        ],
+        "stock_status": "Stokta"
     },
-    "phase": "Monofaze",
-    "inverter": true,
-    "refrigerant": {
-      "type": null
+    {
+        "id": 106,
+        "brand": "Bosch",
+        "model": "Monoblok 26kW Trifaze",
+        "name": "Bosch Monoblok Isı Pompası 26kW Trifaze",
+        "type": "Isı Pompası",
+        "price": "₺ 280.000,00",
+        "old_price": "₺ 320.000,00",
+        "capacity": {
+            "cooling_kw": 26,
+            "heating_kw": 26
+        },
+        "energy": {
+            "energy_class": "A++",
+            "seer": null,
+            "scop": null
+        },
+        "phase": "Trifaze",
+        "inverter": true,
+        "refrigerant": {
+            "type": null
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Endüstriyel çözümler",
+            "Yüksek performans",
+            "Uzun ömürlü kullanım"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+        ],
+        "stock_status": "Stokta"
     },
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "highlight_features": [
-      "Monoblok tasarım",
-      "Yüksek performans",
-      "Düşük enerji tüketimi",
-      "Sessiz çalışma"
-    ],
-    "images": [
-         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
-    ],
-    "stock_status": "Stokta"
-  },
-  {
-    "id": 103,
-    "brand": "Bosch",
-    "model": "Monoblok 14kW Monofaze",
-    "name": "Bosch Monoblok Isı Pompası 14kW Monofaze",
-    "type": "Isı Pompası",
-    "price": "₺ 150.000,00",
-    "old_price": "₺ 173.000,00",
-    "capacity": {
-      "cooling_kw": 13.8,
-      "heating_kw": 14.5
-    },
-    "energy": {
-      "energy_class": null,
-      "seer": null,
-      "scop": null
-    },
-    "phase": "Monofaze",
-    "inverter": true,
-    "refrigerant": {
-      "type": null
-    },
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "highlight_features": [
-      "Geniş alanlar için uygun",
-      "Monoblok dış ünite",
-      "Yüksek verim"
-    ],
-    "images": [
-         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
-    ],
-    "stock_status": "Stokta"
-  },
-  {
-    "id": 104,
-    "brand": "Bosch",
-    "model": "Monoblok 16kW Monofaze",
-    "name": "Bosch Monoblok Isı Pompası 16kW Monofaze",
-    "type": "Isı Pompası",
-    "price": "₺ 165.000,00",
-    "old_price": "₺ 190.000,00",
-    "capacity": {
-      "cooling_kw": 16.0,
-      "heating_kw": 15.9
-    },
-    "energy": {
-      "energy_class": null,
-      "seer": null,
-      "scop": null
-    },
-    "phase": "Monofaze",
-    "inverter": true,
-    "refrigerant": {
-      "type": null
-    },
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "highlight_features": [
-      "Yüksek kapasite",
-      "Ev ve villa çözümleri",
-      "Düşük işletme maliyeti"
-    ],
-    "images": [
-         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
-    ],
-    "stock_status": "Stokta"
-  },
-  {
-    "id": 105,
-    "brand": "Bosch",
-    "model": "Monoblok 22kW Trifaze",
-    "name": "Bosch Monoblok Isı Pompası 22kW Trifaze",
-    "type": "Isı Pompası",
-    "price": "₺ 270.000,00",
-    "old_price": "₺ 310.900,00",
-    "capacity": {
-      "cooling_kw": 22.0,
-      "heating_kw": 22.0
-    },
-    "energy": {
-      "energy_class": null,
-      "seer": null,
-      "scop": null
-    },
-    "phase": "Trifaze",
-    "inverter": true,
-    "refrigerant": {
-      "type": null
-    },
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "highlight_features": [
-      "Ticari kullanım",
-      "Trifaze besleme",
-      "Yüksek kapasite"
-    ],
-    "images": [
-         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
-    ],
-    "stock_status": "Stokta"
-  },
-  {
-    "id": 106,
-    "brand": "Bosch",
-    "model": "Monoblok 26kW Trifaze",
-    "name": "Bosch Monoblok Isı Pompası 26kW Trifaze",
-    "type": "Isı Pompası",
-    "price": "₺ 280.000,00",
-    "old_price": "₺ 320.000,00",
-    "capacity": {
-      "cooling_kw": 26.0,
-      "heating_kw": 26.0
-    },
-    "energy": {
-      "energy_class": null,
-      "seer": null,
-      "scop": null
-    },
-    "phase": "Trifaze",
-    "inverter": true,
-    "refrigerant": {
-      "type": null
-    },
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "highlight_features": [
-      "Endüstriyel çözümler",
-      "Yüksek performans",
-      "Uzun ömürlü kullanım"
-    ],
-    "images": [
-         "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
-    ],
-    "stock_status": "Stokta"
-  },
-  {
-    "id": 107,
-    "brand": "Bosch",
-    "model": "Monoblok 30kW Trifaze",
-    "name": "Bosch Monoblok Isı Pompası 30kW Trifaze",
-    "type": "Isı Pompası",
-    "price": "₺ 300.000,00",
-    "old_price": "₺ 350.000,00",
-    "capacity": {
-      "cooling_kw": 30.0,
-      "heating_kw": 30.1
-    },
-    "energy": {
-      "energy_class": null,
-      "seer": null,
-      "scop": null
-    },
-    "phase": "Trifaze",
-    "inverter": true,
-    "refrigerant": {
-      "type": null
-    },
-    "color": "Beyaz",
-    "warranty_months": 24,
-    "highlight_features": [
-      "Büyük ticari alanlar",
-      "Yüksek kapasite",
-      "Profesyonel kullanım"
-    ],
-    "images": [
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
-        "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
-    ],
-    "stock_status": "Stokta"
-  }
+    {
+        "id": 107,
+        "brand": "Bosch",
+        "model": "Monoblok 30kW Trifaze",
+        "name": "Bosch Monoblok Isı Pompası 30kW Trifaze",
+        "type": "Isı Pompası",
+        "price": "₺ 300.000,00",
+        "old_price": "₺ 350.000,00",
+        "capacity": {
+            "cooling_kw": 30,
+            "heating_kw": 30.1
+        },
+        "energy": {
+            "energy_class": "A++",
+            "seer": null,
+            "scop": null
+        },
+        "phase": "Trifaze",
+        "inverter": true,
+        "refrigerant": {
+            "type": null
+        },
+        "color": "Beyaz",
+        "warranty_months": 24,
+        "highlight_features": [
+            "Büyük ticari alanlar",
+            "Yüksek kapasite",
+            "Profesyonel kullanım"
+        ],
+        "images": [
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067597/%C4%B1s%C4%B1_pompas%C4%B11_y8kp5v.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067615/%C4%B1s%C4%B1pompas%C4%B1_3_ub7p2t.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067608/%C4%B1s%C4%B1_pompas%C4%B12_y8ub02.png",
+            "https://res.cloudinary.com/diyibvvua/image/upload/v1766067621/%C4%B1s%C4%B1_pompas%C4%B1_4_q1wrhj.png"
+        ],
+        "stock_status": "Stokta"
+    }
 ]
