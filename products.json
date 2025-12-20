@@ -1152,7 +1152,7 @@
         "type": "Split Klima",
         "price": "₺ 23.900,00",
         "capacity": {
-            "cooling_btu": 8530,
+            "cooling_btu": 9000,
             "heating_btu": 8871,
             "cooling_kw": 2.5,
             "heating_kw": 2.6
