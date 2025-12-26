@@ -428,7 +428,7 @@
         "id": 999,
         "brand": "Carrier",
         "model": "42QCC042D8SJ",
-        "name": "Carrier 42QCC042D8SJ 42.000 BTU A+ Inverter Kaset Tipi Klima",
+        "name": "Carrier 42QCC042D8SJ 42.000 BTU A+ Inverter Salon Tipi Klima",
         "type": "Kaset Tipi Klima",
         "price": "₺ 100.000,00",
         "capacity": {
@@ -503,8 +503,7 @@
             "contains_f_gas": true
         },
         "notes": [
-            "Kaset tipi klimalar asma tavan gerektirir",
-            "Montaj işlemi yetkili servis tarafından yapılmalıdır",
+            
             "Garanti kapsamı için yetkili servis montajı zorunludur"
         ],
         "images": [
